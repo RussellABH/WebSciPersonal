@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Middle East</title>
+    <link>https://www.nytimes.com/section/world/middleeast</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 01:44:34 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 00:44:37 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World &gt; Middle East</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/middleeast</link>
+    </image>
+    <item>
+      <title>The U.S. Bombed a Dam in Syria That Was on a ‘No-Strike’ List</title>
+      <link>https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/us/airstrike-us-isis-dam.html" rel="standout"/>
+      <description>A military report warned that striking the giant structure could cause tens of thousands of deaths.</description>
+      <dc:creator>Dave Philipps, Azmat Khan and Eric Schmitt</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 20:35:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Townsend, Stephen J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Special Operations Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Euphrates River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tabqa (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/21/us/politics/21dc-dam-strike-5/00dc-TabqaDam-1-moth-v2.jpg" width="151"/>
+      <media:credit>Delil Souleiman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A worker at the Tabqa Dam in 2017.</media:description>
+    </item>
+    <item>
+      <title>Palestinian American Died Handcuffed in Israeli Custody, Witnesses Say</title>
+      <link>https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/middleeast/palestinian-american-detain-israel-dead.html" rel="standout"/>
+      <description>Omar Assad, 78, had hoped to see his children in the U.S. one more time. Instead he died after being detained by Israeli soldiers.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Fri, 21 Jan 2022 00:44:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19palestinian1/19palestinian1-moth.jpg" width="151"/>
+      <media:credit>Mohamad Torokman/Reuters</media:credit>
+      <media:description>The funeral for Omar Assad, 78, who died after he was detained by Israeli soldiers, in Jiljilya last week.</media:description>
+    </item>
+    <item>
+      <title>Kamal Mouzawak Is Championing Lebanon's Culinary Traditions </title>
+      <link>https://www.nytimes.com/2022/01/20/travel/kamal-mouzawak-food-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/travel/kamal-mouzawak-food-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/travel/kamal-mouzawak-food-lebanon.html" rel="standout"/>
+      <description>At home and now in Paris, Kamal Mouzawak empowers Lebanese communities through food. Not even the horrific port blast in 2020 has stopped him.</description>
+      <dc:creator>Lindsey Tramuta</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beirut, Lebanon, Explosions (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Central Kitchen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>Russia and Iran Put on a Show of Unity — Against the U.S.</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html" rel="standout"/>
+      <description>Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington.</description>
+      <dc:creator>Anton Troianovski, Farnaz Fassihi and Steven Erlanger</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:38:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+    </item>
+    <item>
+      <title>Syrian Doctor Accused of Atrocities Goes on Trial in Germany</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html" rel="standout"/>
+      <description>The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 13:04:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mousa, Alaa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19german-syria1/merlin_200556384_93644974-7743-4e09-b7b3-3dfaab308852-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Boris Roessler</media:credit>
+      <media:description>A Syrian doctor, Alaa Mousa, went on trial in Frankfurt, Germany, on Wednesday, charged with torturing opponents of the Syrian regime and murdering one of them.</media:description>
+    </item>
+    <item>
+      <title>Israel Evicts Palestinians in Sheikh Jarrah Area of Jerusalem</title>
+      <link>https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/middleeast/israel-palestine-jerusalem-eviction.html" rel="standout"/>
+      <description>Israelis evicted an extended family and destroyed their homes in the Sheikh Jarrah neighborhood, where attempted evictions last year helped spark a war with Gaza.</description>
+      <dc:creator>Patrick Kingsley and Rawan Sheikh Ahmad</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 18:33:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Jerusalem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evictions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19jerusalem02-promo/19jerusalem02-promo-moth.jpg" width="151"/>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+    </item>
+    <item>
+      <title>A fourth shot may not offer much more protection against catching Omicron, an early Israeli study suggests.</title>
+      <link>https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/world/middleeast/omicron-fourth-shot-israel.html" rel="standout"/>
+      <description>The small study adds information to the debate over whether a fourth shot is advisable.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 16:18:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/17/multimedia/17virus-briefing-israel/17virus-briefing-israel-moth-v2.jpg" width="151"/>
+      <media:credit>Amir Levy/Getty Images</media:credit>
+      <media:description>A resident receives a fourth dose of the coronavirus vaccine at a nursing home in Tel Mond, Israel, earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.</title>
+      <link>https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html" rel="standout"/>
+      <description>Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack.</description>
+      <dc:creator>Shuaib Almosawa, Vivian Yee and Isabella Kwai</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 10:12:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/17/world/17uae/17uae-moth.jpg" width="151"/>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>An Abu Dhabi National Oil Company storage facility on Monday. </media:description>
+    </item>
+    <item>
+      <title>Israeli Artist Turns Plastic Pollution Into ‘Earth Poetica’</title>
+      <link>https://www.nytimes.com/2022/01/16/arts/design/beverly-barkat-artist-israel-plastic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/16/arts/design/beverly-barkat-artist-israel-plastic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/16/arts/design/beverly-barkat-artist-israel-plastic.html" rel="standout"/>
+      <description>In Beverly Barkat’s quest to connect people with nature, she found that environmental waste could be a powerful medium.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Sun, 16 Jan 2022 22:52:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barkat, Beverly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barkat, Nir</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/17/arts/16ISRAEL-BEVERLY-BARKAT-1/merlin_199295910_ad1b6ffb-25a5-43e7-8558-c4abd99f17b4-moth.jpg" width="151"/>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Beverly Barkat in her Jerusalem studio assembling “Earth Poetica,” a huge globe, from plastic waste. Its permanent home will be a building at ground zero in Manhattan.</media:description>
+    </item>
+    <item>
+      <title>A Ban on 19 Singers in Egypt Tests the Old Guard’s Power</title>
+      <link>https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/16/world/middleeast/egypt-mahraganat-music.html" rel="standout"/>
+      <description>Leaders of a musicians’ licensing group are trying to curb mahraganat, a bold genre wildly popular with young people. It is not clear if they can.</description>
+      <dc:creator>Mona El-Naggar</dc:creator>
+      <pubDate>Sun, 16 Jan 2022 20:00:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakosh, Hassan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/13/world/13Egypt-music1/13Egypt-music1-moth.jpg" width="151"/>
+      <media:credit>Mohamed Hossam/EPA, via Shutterstock</media:credit>
+      <media:description>Mahraganat music played at a bachelor party in 2019 in Cairo, where the genre is very popular. </media:description>
+    </item>
+    <item>
+      <title>Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial</title>
+      <link>https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html" rel="standout"/>
+      <description>Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Sun, 16 Jan 2022 15:14:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plea Bargaining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/world/16isarel/16isarel-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Maya Alleruzzo</media:credit>
+      <media:description>Benjamin Netanyahu at a hearing in Jerusalem in November. The talks are the latest twist in a legal process that began in 2016 after claims that Mr. Netanyahu had accepted gifts in exchange for political favors.</media:description>
+    </item>
+    <item>
+      <title>32 Years After Civil War, Mundane Moments Trigger Awful Memories</title>
+      <link>https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/15/world/middleeast/lebanon-civil-war-memories.html" rel="standout"/>
+      <description>Cards. Candles. Sunsets. For this New York Times correspondent and other children of Beirut in the 1980s, traumatic reminders of the war are still there in everyday activities.</description>
+      <dc:creator>Maria Abi-Habib</dc:creator>
+      <pubDate>Sat, 15 Jan 2022 15:37:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beirut, Lebanon, Explosions (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cards and Card Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/15/world/15Lebanon-Memory-Dispatch-08/15Lebanon-Memory-Dispatch-08-moth.jpg" width="151"/>
+      <media:credit>Anwar Amro/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Everyday items like candles can trigger traumatic memories of the war. As sweeping power outages in Beirut continue, residents have once again found themselves living by candlelight.</media:description>
+    </item>
+    <item>
+      <title>Oil Prices Stay High as Output From OPEC and Others Falls Behind</title>
+      <link>https://www.nytimes.com/2022/01/14/business/energy-environment/oil-prices-opec.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/business/energy-environment/oil-prices-opec.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/business/energy-environment/oil-prices-opec.html" rel="standout"/>
+      <description>OPEC Plus, the United States and others have been slow to ramp up output, lagging production goals.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 10:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/business/14OPEC/14OPEC-moth.jpg" width="151"/>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+      <media:description>An oil refinery in Port Arthur, Texas. Lagging production of oil worldwide has been sending prices to seven-year highs and driving inflation.</media:description>
+    </item>
+    <item>
+      <title>Majid Al Futtaim, Who Helped Build Modern Dubai, Dies at 87</title>
+      <link>https://www.nytimes.com/2022/01/13/business/majid-al-futtaim-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/13/business/majid-al-futtaim-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/13/business/majid-al-futtaim-dead.html" rel="standout"/>
+      <description>His real estate empire, including malls, grocery stores and luxury hotels, transformed the Persian Gulf city into a global tourism hub.</description>
+      <dc:creator>Clay Risen</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 15:37:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Al Futtaim, Majid (1934-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Majid Al Futtaim Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Centers and Malls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/obituaries/16futtaim-print/12futtaim1-moth.jpg" width="151"/>
+      <media:credit>Christopher Pike/Bloomberg</media:credit>
+      <media:description>The Mall of Emirates in Dubai. Majid Al Futtaim, who opened the mall at the height of the Persian Gulf region’s economic boom, brought the Western-style consumer experience to the gulf.</media:description>
+    </item>
+    <item>
+      <title>Rockets Possibly Fired by Pro-Iran Assailants Target U.S. Embassy in Iraq</title>
+      <link>https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/13/world/middleeast/baghdad-embassy-rockets-iran.html" rel="standout"/>
+      <description>Four rockets were fired at the fortified compound that houses the U.S. Embassy in Baghdad, and suspicion fell on pro-Iran militias.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Thu, 13 Jan 2022 22:09:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/13/world/13iraq/13iraq-moth.jpg" width="151"/>
+      <media:credit>Ahmed Saad/Reuters</media:credit>
+      <media:description>A militia protest outside the U.S. embassy in Baghdad last month.</media:description>
+    </item>
+    <item>
+      <title>First Trial for Syrian State Atrocities Yields Guilty Verdict in Germany</title>
+      <link>https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html" rel="standout"/>
+      <description>A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war.</description>
+      <dc:creator>Ben Hubbard and Katrin Bennhold</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 00:37:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raslan, Anwar (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/13/world/13syria-germany/13syria-germany-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Thomas Frey</media:credit>
+      <media:description>The former Syrian intelligence officer Anwar Raslan in the courtroom on Thursday in Koblenz, Germany.</media:description>
+    </item>
+    <item>
+      <title>Palestinian American Dies of Heart Attack After Brief Detention by Israeli Troops</title>
+      <link>https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/12/world/middleeast/palestinian-american-dies-israel.html" rel="standout"/>
+      <description>The elderly man, who was identified as Omar Asad, had been held during a raid by the Israeli Army on a Palestinian village in the occupied West Bank.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Thu, 13 Jan 2022 02:59:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/12/world/12West-Bank-01/12West-Bank-01-moth.jpg" width="151"/>
+      <media:credit>Mohamad Torokman/Reuters</media:credit>
+      <media:description>A poster of Omar Asad, who died shortly after being detained by Israeli troops, in the West Bank village of Jiljilya on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>The U.S. and Iran Move Closer to a Nuclear Deal</title>
+      <link>https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/12/world/middleeast/us-iran-nuclear-deal.html" rel="standout"/>
+      <description>As negotiations reach a critical stage, neither side wants to betray weakness by seeming too eager to reach a deal.</description>
+      <dc:creator>Farnaz Fassihi and Lara Jakes</dc:creator>
+      <pubDate>Thu, 13 Jan 2022 03:47:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suleimani, Qassim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/12/world/12iran-us-02/12iran-us-02-moth.jpg" width="151"/>
+      <media:credit>Abedin Taherkenareh/EPA, via Shutterstock</media:credit>
+      <media:description>Iranian officials standing near missiles put on display by the Revolutionary Guard in Tehran on Friday. Despite their bombastic talk, Iranian officials seem optimistic about reaching a nuclear deal with the U.S.</media:description>
+    </item>
+    <item>
+      <title>Aras Amiri Has Returned to the U.K. After Being Jailed in Iran</title>
+      <link>https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/12/world/middleeast/aras-amiri-released-iran.html" rel="standout"/>
+      <description>Aras Amiri, an arts worker employed by the British Council, was arrested in March 2018 on espionage charges. She was acquitted in August and flew back to Britain earlier this week.</description>
+      <dc:creator>Aina J. Khan</dc:creator>
+      <pubDate>Sun, 16 Jan 2022 00:54:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Evin Prison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amiri, Aras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore-Gilbert, Kylie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Namazi, Baquer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Namazi, Siamak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zaghari-Ratcliffe, Nazanin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/12/world/12iran-uk-01/12iran-uk-01-moth.jpg" width="151"/>
+      <media:credit>Photo provided by Mohsen Omrani</media:credit>
+      <media:description>Aras Amiri was employed by the British Council for five years in London prior to being arrested in Iran.</media:description>
+    </item>
+    <item>
+      <title>Saudi Princess Is Released, but Other Royals Are Still Locked Up</title>
+      <link>https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/09/world/middleeast/saudi-princess-released.html" rel="standout"/>
+      <description>The Saudi government has not said why it detained or freed Princess Basmah bint Saud, a daughter of a former king who has criticized the country’s policies.</description>
+      <dc:creator>Ben Hubbard</dc:creator>
+      <pubDate>Tue, 11 Jan 2022 10:53:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salman, King of Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Basmah bint Saud, Princess of Saudi Arabia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/09/world/09princess/09princess-moth.jpg" width="151"/>
+      <media:credit>Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Princess Basmah bint Saud in Washington in 2017 during a discussion about the role of women in the Middle East.</media:description>
+    </item>
+  </channel>
+</rss>

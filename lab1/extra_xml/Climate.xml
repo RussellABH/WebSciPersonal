@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Climate and Environment</title>
+    <link>https://www.nytimes.com/section/climate</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 02:08:26 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jan 2022 23:09:32 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Climate and Environment</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/climate</link>
+    </image>
+    <item>
+      <title>‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</title>
+      <link>https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html" rel="standout"/>
+      <description>Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda.</description>
+      <dc:creator>Coral Davenport and Lisa Friedman</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 23:09:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markey, Edward J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/climate/20cli-climatebill6/20cli-climatebill6-moth.jpg" width="151"/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>“I think it’s clear that we would be able to get support for the $500 billion plus for energy and the environment,” President Biden said of Congress on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Here’s What Scientists Know About the Tonga Volcano Eruption</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html" rel="standout"/>
+      <description>The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 20:58:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/climate/19cli-volcano1/19cli-volcano1-moth.jpg" width="151"/>
+      <media:credit>Tonga Geological Services, via Reuters</media:credit>
+      <media:description>The Hunga Tonga-Hunga Ha’apai volcano, off the coast of Tonga, on Friday.</media:description>
+    </item>
+    <item>
+      <title>New Research Shows How Health Risks to Children Mount as Temperatures Rise</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/children-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/children-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/children-climate-change.html" rel="standout"/>
+      <description>The first nationwide study on rising temperatures and younger Americans found that hotter days were associated with more visits to emergency rooms.</description>
+      <dc:creator>Winston Choi-Schagrin</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 16:28:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Health Perspectives (Journal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/science/19cli-childheat1/19cli-childheat1-moth.jpg" width="151"/>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>A misting station in Queens in August. National research shows that children face particular dangers during heat waves.</media:description>
+    </item>
+    <item>
+      <title>A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html" rel="standout"/>
+      <description>The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 01:31:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Svalbard and Jan Mayen (Norway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+    </item>
+    <item>
+      <title>Sometimes, Life Stinks. So He Invented the Nasal Ranger.</title>
+      <link>https://www.nytimes.com/2022/01/13/climate/nasal-ranger-chuck-mcginley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/13/climate/nasal-ranger-chuck-mcginley.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/13/climate/nasal-ranger-chuck-mcginley.html" rel="standout"/>
+      <description>For Chuck McGinley, an engineer who devised the go-to instrument for measuring odors, helping people understand what they smell is serious science.</description>
+      <dc:creator>Winston Choi-Schagrin</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 16:04:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smell (Olfaction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smells and Odors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGinley, Chuck (1945- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-positive-escape</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/06/climate/00cli-odor-promo/00cli-odor-promo-moth.jpg" width="151"/>
+      <media:credit>Caroline Yang for The New York Times</media:credit>
+      <media:description>Chuck McGinley with his Nasal Ranger, a design inspired by the shape of the Haleakala volcano in Hawaii.</media:description>
+    </item>
+    <item>
+      <title>The Science of Climate Change Explained: Facts, Evidence and Proof</title>
+      <link>https://www.nytimes.com/article/climate-change-global-warming-faq.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/climate-change-global-warming-faq.html</guid>
+      <atom:link href="https://www.nytimes.com/article/climate-change-global-warming-faq.html" rel="standout"/>
+      <description>Definitive answers to the big questions.</description>
+      <dc:creator>Julia Rosen</dc:creator>
+      <pubDate>Sat, 06 Nov 2021 16:14:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intergovernmental Panel on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Sprawling Coral Reef Resembling Roses Is Discovered Off Tahiti</title>
+      <link>https://www.nytimes.com/2022/01/20/science/tahiti-coral-reef.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/tahiti-coral-reef.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/tahiti-coral-reef.html" rel="standout"/>
+      <description>The reef, which is just under two miles long and is in “pristine” condition, was found by a team of divers mapping the ocean floor for UNESCO.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 22:38:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coral</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scripps Institution of Oceanography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tahiti</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/science/20xp-coralreef1/20xp-coralreef1-moth.jpg" width="151"/>
+      <media:credit>Alexis Rosenfeld via Associated Press</media:credit>
+      <media:description>A coral reef resembling a bed of roses was discovered off the coast of Tahiti.</media:description>
+    </item>
+    <item>
+      <title>Predictions Favored Solar Over Wind Power. What Happened?</title>
+      <link>https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html" rel="standout"/>
+      <description>One lesson: Renewable technology benefits from early, consistent government support.</description>
+      <dc:creator>Lois Parshley</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 10:02:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+    </item>
+    <item>
+      <title>What We Know About the Tonga Volcano</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/tonga-volcano-tsunami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/tonga-volcano-tsunami.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/tonga-volcano-tsunami.html" rel="standout"/>
+      <description>The explosion probably won’t cool the planet as some previous eruptions have done, but its effects could be felt around the world in other ways.</description>
+      <pubDate>Wed, 19 Jan 2022 20:17:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/climate/19cli-volcano1-newsletter/19cli-volcano1-moth.jpg" width="151"/>
+      <media:credit>Tonga Geological Services, via Reuters</media:credit>
+      <media:description>The Hunga volcano, off the coast of Tonga, last week. </media:description>
+    </item>
+    <item>
+      <title>Biden Administration Announces Plan to Spend Billions to Prevent Wildfires</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/biden-administration-wildfire-plan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/biden-administration-wildfire-plan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/biden-administration-wildfire-plan.html" rel="standout"/>
+      <description>The plan is an expensive one, but it is only partially funded.</description>
+      <dc:creator>Alyssa Lukpat</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:59:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/multimedia/18xp-wildfires-top2/18xp-wildfires-top2-moth-v2.jpg" width="151"/>
+      <media:credit>Max Whittaker for The New York Times</media:credit>
+      <media:description>The Caldor fire in Eldorado National Forest near Pollock Pines, Calif., last year.</media:description>
+    </item>
+    <item>
+      <title>Exxon Sets a 2050 Goal for Net-Zero Greenhouse Gas Emissions</title>
+      <link>https://www.nytimes.com/2022/01/18/business/exxon-net-zero-emissions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/business/exxon-net-zero-emissions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/business/exxon-net-zero-emissions.html" rel="standout"/>
+      <description>The target does not account for the climate impact of its customers and suppliers, leaving the company lagging the commitments of some of its rivals.</description>
+      <dc:creator>Clifford Krauss</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 21:07:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woods, Darren W (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Capture and Sequestration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Permian Basin (North America)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/18exxon1/merlin_169151160_3a3fa83b-6709-4d4b-8c42-0518384d3551-moth.jpg" width="151"/>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>An Exxon complex in Baytown, Texas. The company identified 150 modifications that it can make in its operations to help meet its emission goals, it said.</media:description>
+    </item>
+    <item>
+      <title>Mexico Is Buying a Texas Oil Refinery in a Quest for Energy Independence</title>
+      <link>https://www.nytimes.com/2022/01/18/business/economy/mexico-oil-refinery-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/business/economy/mexico-oil-refinery-texas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/business/economy/mexico-oil-refinery-texas.html" rel="standout"/>
+      <description>President López Obrador wants to halt most oil exports and imports of gasoline and other fuels. Critics say he is reneging on Mexico’s climate change commitments.</description>
+      <dc:creator>Clifford Krauss</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 08:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalization of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pemex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena Nieto, Enrique</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Deer Park (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/15/business/00mexico-oil01/00mexico-oil01-moth.jpg" width="151"/>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+      <media:description>The Deer Park refinery, which sits on the Houston ship channel, would be the only major Pemex operation outside Mexico.</media:description>
+    </item>
+    <item>
+      <title>Storm Moves Into the Northeast After Heavy Snow in the South</title>
+      <link>https://www.nytimes.com/2022/01/16/us/snowstorm-updates-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/16/us/snowstorm-updates-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/16/us/snowstorm-updates-news.html" rel="standout"/>
+      <description>The system spawned tornadoes in Florida and knocked out power to nearly 200,000 customers in the Southeast. It could bring a foot or more of snow to western Pennsylvania and northern New York State.</description>
+      <dc:creator>Eduardo Medina</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 10:46:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/multimedia/16xp-storm-nc/16xp-storm-nc-moth.jpg" width="151"/>
+      <media:credit>Kathy Kmonicek/Associated Press</media:credit>
+      <media:description>Clearing snow in Morganton, N.C. Sunday.</media:description>
+    </item>
+    <item>
+      <title>As Infrastructure Money Flows, Wastewater Improvements Are Key</title>
+      <link>https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html" rel="standout"/>
+      <description>The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most?</description>
+      <dc:creator>Glenn Thrush</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 16:07:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure Investment and Jobs Act (2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hayneville (Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lowndes County (Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/02/us/politics/00dc-AlabamaWater-1/merlin_199726590_c694a5f9-6ebb-4dbc-a4da-1b57d6108e5a-moth.jpg" width="151"/>
+      <media:credit>Matthew Odom for The New York Times</media:credit>
+      <media:description>Marilyn Rudolph’s house just outside of Hayneville, Ala., uses a rudimentary and unsanitary homemade sewage system used by thousands of people in rural Alabama.</media:description>
+    </item>
+    <item>
+      <title>We Mapped a Year of Extreme Weather</title>
+      <link>https://www.nytimes.com/2022/01/12/climate/nyt-climate-newsletter-temperature-records.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/12/climate/nyt-climate-newsletter-temperature-records.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/12/climate/nyt-climate-newsletter-temperature-records.html" rel="standout"/>
+      <description>The Times analyzed temperature data from weather stations across the United States. The result: 2021 was a huge year for records, both high and low.</description>
+      <pubDate>Wed, 12 Jan 2022 17:14:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/11/us/record-temperatures-map-2021-climate-newsletter/record-temperatures-map-2021-promo-1641877907864-moth-v3.png" width="151"/>
+    </item>
+    <item>
+      <title>Don’t Just Watch: Team Behind ‘Don’t Look Up’ Urges Climate Action</title>
+      <link>https://www.nytimes.com/2022/01/11/climate/dont-look-up-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/11/climate/dont-look-up-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/11/climate/dont-look-up-climate.html" rel="standout"/>
+      <description>The satirical film about a comet hurtling toward Earth is a metaphor for climate change. It has broken a Netflix record and its director hopes it will mobilize public action.</description>
+      <dc:creator>Cara Buckley</dc:creator>
+      <pubDate>Wed, 12 Jan 2022 19:52:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiCaprio, Leonardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McKay, Adam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawrence, Jennifer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Don't Look Up (Movie)</category>
+    </item>
+    <item>
+      <title>Is Norway the Future of Cars?</title>
+      <link>https://www.nytimes.com/2022/01/11/technology/norway-electric-vehicles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/11/technology/norway-electric-vehicles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/11/technology/norway-electric-vehicles.html" rel="standout"/>
+      <description>The speed by which electric vehicles have taken over Norway has stunned even the cars’ enthusiasts.</description>
+      <dc:creator>Shira Ovide</dc:creator>
+      <pubDate>Tue, 11 Jan 2022 17:40:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/13/multimedia/11OnTech-NorwayEVs-NL/11OnTech-NorwayEVs-NL-moth.png" width="151"/>
+      <media:credit>Asya Demidova</media:credit>
+    </item>
+    <item>
+      <title>2021 Was Earth’s Fifth-Hottest Year, Scientists Say</title>
+      <link>https://www.nytimes.com/2022/01/10/climate/2021-hottest-year.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/10/climate/2021-hottest-year.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/10/climate/2021-hottest-year.html" rel="standout"/>
+      <description>The finding, by European researchers, fits a clear warming trend: The seven hottest years on record have been the past seven.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Mon, 10 Jan 2022 14:43:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Center for Medium-Range Weather Forecasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty One</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/10/climate/10cli-copernicus1/10cli-copernicus1-moth.jpg" width="151"/>
+      <media:credit>Darryl Dyck/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Wildfires near Lytton, British Columbia, in July. The temperature in the town hit 121 degrees Fahrenheit in June, a Canadian record.</media:description>
+    </item>
+    <item>
+      <title>The World Has Changed. So Has ‘52 Places.’</title>
+      <link>https://www.nytimes.com/2022/01/10/travel/a-different-kind-of-52.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/10/travel/a-different-kind-of-52.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/10/travel/a-different-kind-of-52.html" rel="standout"/>
+      <description>Our annual list of destinations to visit this year looks at spots where visitors can be part of the solution to problems like overtourism and climate change.</description>
+      <dc:creator>Amy Virshup</dc:creator>
+      <pubDate>Mon, 10 Jan 2022 17:35:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/10/travel/10-places-intro/10-places-intro-moth.jpg" width="151"/>
+      <media:credit>Andy Haslam for The New York Times</media:credit>
+      <media:description>Hadrian’s Wall, in Northumberland, England, was chosen for the “52 Places” list for its history and connection to the land. </media:description>
+    </item>
+    <item>
+      <title>U.S. Greenhouse Gas Emissions Bounced Back Sharply in 2021</title>
+      <link>https://www.nytimes.com/2022/01/10/climate/emissions-pandemic-rebound.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/10/climate/emissions-pandemic-rebound.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/10/climate/emissions-pandemic-rebound.html" rel="standout"/>
+      <description>Emissions rose 6 percent last year after a record 10 percent decline in 2020, fueled by a rise in coal power and truck traffic as the U.S. economy rebounded from the pandemic.</description>
+      <dc:creator>Brad Plumer</dc:creator>
+      <pubDate>Mon, 10 Jan 2022 13:46:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rhodium Group LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/10/climate/10cli-emissions1/10cli-emissions1-moth.jpg" width="151"/>
+      <media:credit>Brittainy Newman for The New York Times</media:credit>
+      <media:description>Traffic on the Williamsburg Bridge in Manhattan last year. Transportation emissions, the nation’s largest source of greenhouse gases, rose 10 percent in 2021.</media:description>
+    </item>
+    <item>
+      <title>Finding a Story by Asking ‘Really Dumb Questions’</title>
+      <link>https://www.nytimes.com/2022/01/08/insider/finding-a-story-by-asking-really-dumb-questions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/08/insider/finding-a-story-by-asking-really-dumb-questions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/08/insider/finding-a-story-by-asking-really-dumb-questions.html" rel="standout"/>
+      <description>The climate reporter Somini Sengupta on her inspiration for becoming a journalist, finding ideas and unwinding.</description>
+      <dc:creator>Katie Van Syckle</dc:creator>
+      <pubDate>Mon, 10 Jan 2022 16:23:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/10/pageoneplus/10a2_insider-alt/10a2_insider-alt-moth.jpg" width="151"/>
+      <media:credit>Marcos Zegers for The New York Times</media:credit>
+      <media:description>Somini Sengupta in the Atacama Desert in Chile.</media:description>
+    </item>
+    <item>
+      <title>Biden Consoles Residents in Fire-Ravaged Colorado</title>
+      <link>https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/us/politics/biden-colorado-fires.html" rel="standout"/>
+      <description>The president said the devastation caused by natural disasters rooted in climate change was “a blinking ‘code red’ for our nation.”</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Sat, 08 Jan 2022 03:04:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/multimedia/07dc-biden/07dc-biden-moth-v2.jpg" width="151"/>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>U.S. President Joe Biden and First Lady Jill Biden meet with residents of Boulder, Colo. while surveying the Marshall Fire damage Jan. 7, 2022.</media:description>
+    </item>
+    <item>
+      <title>Road Salt Works. But It’s Also Bad for the Environment.</title>
+      <link>https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/climate/road-salt-water-supply.html" rel="standout"/>
+      <description>The chemical is effective at keeping roads free of snow and ice, but it also has damaging consequences, according to a growing body of research.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Fri, 07 Jan 2022 18:06:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute of Ecosystem Studies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Frontiers in Ecology and the Environment (Journal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/multimedia/07xp-roadsalt2/07xp-roadsalt2-moth.jpg" width="151"/>
+      <media:credit>Chip Somodevilla/Getty Images</media:credit>
+      <media:description>A salt and plow truck sat abandoned after sliding off the road in icy conditions in Stafford County, Va., this week.</media:description>
+    </item>
+    <item>
+      <title>Here’s How Climate Change and Covid Are Transforming Skiing</title>
+      <link>https://www.nytimes.com/2022/01/07/climate/skiing-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/climate/skiing-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/climate/skiing-climate-change.html" rel="standout"/>
+      <description>There’s less snow and stricter rules, but skiers are adjusting in surprising ways.</description>
+      <dc:creator>Lauren Jackson</dc:creator>
+      <pubDate>Mon, 10 Jan 2022 20:46:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avalanches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/05/climate/00cli-ski1b/00cli-ski1b-moth.jpg" width="151"/>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
+      <media:description>Ingrid Backstrom, a professional skier, at Stevens Pass in Skykomish, Wash., on Dec. 19, the first weekend the area was skiable. </media:description>
+    </item>
+    <item>
+      <title>The Benefits of Bickering in Marriage</title>
+      <link>https://www.nytimes.com/2022/01/07/style/modern-love-bickering-marriage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/style/modern-love-bickering-marriage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/style/modern-love-bickering-marriage.html" rel="standout"/>
+      <description>A relationship is a shared story, even if it’s hard to agree on the details.</description>
+      <dc:creator>Nicole Walker</dc:creator>
+      <pubDate>Fri, 07 Jan 2022 13:56:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/09/fashion/09MODERN-BICKER/09MODERN-BICKER-moth.jpg" width="151"/>
+      <media:credit>Brian Rea</media:credit>
+    </item>
+  </channel>
+</rss>

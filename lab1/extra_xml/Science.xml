@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Science</title>
+    <link>https://www.nytimes.com/section/science</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 02:12:00 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 00:31:25 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Science</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/science</link>
+    </image>
+    <item>
+      <title>Why Whales Don’t Choke</title>
+      <link>https://www.nytimes.com/2022/01/20/science/whales-swallow-choke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/whales-swallow-choke.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/whales-swallow-choke.html" rel="standout"/>
+      <description>Scientists have discovered a new anatomical structure that allows lunge-feeding whales to take in massive amounts of water without choking.</description>
+      <dc:creator>Sam Jones</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 16:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Throat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anatomy and Physiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/science/20tb-whales/20tb-whales-moth.jpg" width="151"/>
+      <media:credit>Iain Brownlee/Alamy</media:credit>
+      <media:description>A humpback whale lunge feeding off Vancouver Island in Canada.</media:description>
+    </item>
+    <item>
+      <title>U.S. Drops Its Case Against M.I.T. Scientist Accused of Hiding China Links</title>
+      <link>https://www.nytimes.com/2022/01/20/science/gang-chen-mit-china-initiative.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/gang-chen-mit-china-initiative.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/gang-chen-mit-china-initiative.html" rel="standout"/>
+      <description>Gang Chen, a professor of mechanical engineering, was arrested a year ago, accused of concealing his affiliations with Chinese government institutions.</description>
+      <dc:creator>Ellen Barry and Katie Benner</dc:creator>
+      <pubDate>Fri, 21 Jan 2022 00:31:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen, Gang (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/05/science/05CHEN/05CHEN-moth.jpg" width="151"/>
+      <media:credit>M.I.T.</media:credit>
+      <media:description>Gang Chen, an M.I.T. scientist, was arrested in 2021 as part of the China Initiative, a government anti-espionage effort that has come under criticism for singling out scientists of Chinese heritage.</media:description>
+    </item>
+    <item>
+      <title>A New Map of the Sun’s Local Bubble</title>
+      <link>https://www.nytimes.com/2022/01/20/science/milky-way-local-bubble-stars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/milky-way-local-bubble-stars.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/milky-way-local-bubble-stars.html" rel="standout"/>
+      <description>At the edge of a vast region devoid of gas and dust, scientists find an explanation for “how all nearby star formation began.”</description>
+      <dc:creator>Dennis Overbye</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 10:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Milky Way Galaxy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard-Smithsonian Center for Astrophysics</category>
+    </item>
+    <item>
+      <title>Sprawling Coral Reef Resembling Roses Is Discovered Off Tahiti</title>
+      <link>https://www.nytimes.com/2022/01/20/science/tahiti-coral-reef.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/tahiti-coral-reef.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/tahiti-coral-reef.html" rel="standout"/>
+      <description>The reef, which is just under two miles long and is in “pristine” condition, was found by a team of divers mapping the ocean floor for UNESCO.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 22:38:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coral</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scripps Institution of Oceanography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tahiti</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/science/20xp-coralreef1/20xp-coralreef1-moth.jpg" width="151"/>
+      <media:credit>Alexis Rosenfeld via Associated Press</media:credit>
+      <media:description>A coral reef resembling a bed of roses was discovered off the coast of Tahiti.</media:description>
+    </item>
+    <item>
+      <title>‘Major Discovery’ Beneath Antarctic Seas: A Giant Icefish Breeding Colony</title>
+      <link>https://www.nytimes.com/2022/01/13/science/icefish-antarctica-eggs-colony.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/13/science/icefish-antarctica-eggs-colony.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/13/science/icefish-antarctica-eggs-colony.html" rel="standout"/>
+      <description>Scientists discovered a mammoth nesting ground with an estimated 60 million icefish nests in the Weddell Sea.</description>
+      <dc:creator>Sabrina Imbler</dc:creator>
+      <pubDate>Thu, 13 Jan 2022 16:14:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seals (Animals) and Sealing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+    </item>
+    <item>
+      <title>Sometimes, Life Stinks. So He Invented the Nasal Ranger.</title>
+      <link>https://www.nytimes.com/2022/01/13/climate/nasal-ranger-chuck-mcginley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/13/climate/nasal-ranger-chuck-mcginley.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/13/climate/nasal-ranger-chuck-mcginley.html" rel="standout"/>
+      <description>For Chuck McGinley, an engineer who devised the go-to instrument for measuring odors, helping people understand what they smell is serious science.</description>
+      <dc:creator>Winston Choi-Schagrin</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 16:04:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smell (Olfaction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smells and Odors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGinley, Chuck (1945- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-positive-escape</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/06/climate/00cli-odor-promo/00cli-odor-promo-moth.jpg" width="151"/>
+      <media:credit>Caroline Yang for The New York Times</media:credit>
+      <media:description>Chuck McGinley with his Nasal Ranger, a design inspired by the shape of the Haleakala volcano in Hawaii.</media:description>
+    </item>
+    <item>
+      <title>Checking Privilege in the Animal Kingdom</title>
+      <link>https://www.nytimes.com/2022/01/11/science/inequality-intergenerational-wealth-animals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/11/science/inequality-intergenerational-wealth-animals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/11/science/inequality-intergenerational-wealth-animals.html" rel="standout"/>
+      <description>Researchers say the human concepts of intergenerational wealth and inequality are useful for studying some animals’ behavior.</description>
+      <dc:creator>Elizabeth Preston</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 01:26:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Squirrels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Behavioral Ecology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/11/science/09TB-WEALTHGAP/09TB-WEALTHGAP-moth.jpg" width="151"/>
+      <media:credit>Asbjorn M. Olsen/Alamy</media:credit>
+      <media:description>Check your privilege, squirrel.</media:description>
+    </item>
+    <item>
+      <title>How European Royals Once Shared Their Most Important Secrets</title>
+      <link>https://www.nytimes.com/2022/01/10/science/european-royals-letterlocking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/10/science/european-royals-letterlocking.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/10/science/european-royals-letterlocking.html" rel="standout"/>
+      <description>Recent research highlights the use of letterlocking techniques by Queen Elizabeth, Catherine de’ Medici and Mary Queen of Scots.</description>
+      <dc:creator>William J. Broad</dc:creator>
+      <pubDate>Mon, 10 Jan 2022 16:56:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Letters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Electronic British Library Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth I, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mary, Queen of Scots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medici Family</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/10/science/10sci-letterlocking1/10sci-letterlocking1-moth.jpg" width="151"/>
+      <media:credit>National Library of Scotland</media:credit>
+      <media:description>A letter from Mary Queen of Scots, sent on Feb. 8, 1587, to Henry III, king of France. The letter was written and locked just hours before Mary was executed for treason.</media:description>
+    </item>
+    <item>
+      <title>Deborah Nickerson, Pioneering Genome Researcher, Dies at 67</title>
+      <link>https://www.nytimes.com/2022/01/20/science/deborah-nickerson-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/deborah-nickerson-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/deborah-nickerson-dead.html" rel="standout"/>
+      <description>Using the Human Genome Project as her guide, she helped find genes responsible for cardiovascular disease, autism and a rare disorder called Miller syndrome.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:04:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nickerson, Deborah (1954-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Genome Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Human Genome Research Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Washington</category>
+    </item>
+    <item>
+      <title>Kidneys From a Genetically Altered Pig Are Implanted in a Brain-Dead Patient</title>
+      <link>https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/health/transplants-pig-human-kidney.html" rel="standout"/>
+      <description>Surgeons at the University of Alabama at Birmingham said they hoped to start clinical trials with kidney patients later this year.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 14:41:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Journal of Transplantation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Alabama at Birmingham</category>
+    </item>
+    <item>
+      <title>Predictions Favored Solar Over Wind Power. What Happened?</title>
+      <link>https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/climate/solar-wind-renewable-energy.html" rel="standout"/>
+      <description>One lesson: Renewable technology benefits from early, consistent government support.</description>
+      <dc:creator>Lois Parshley</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 10:02:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+    </item>
+    <item>
+      <title>‘Build Back Better’ Hit a Wall, but Climate Action Could Move Forward</title>
+      <link>https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html" rel="standout"/>
+      <description>Some Democrats want to forge ahead with a stand-alone climate bill, but their solution could mean abandoning other parts of President Biden’s agenda.</description>
+      <dc:creator>Coral Davenport and Lisa Friedman</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 23:09:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markey, Edward J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/climate/20cli-climatebill6/20cli-climatebill6-moth.jpg" width="151"/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>“I think it’s clear that we would be able to get support for the $500 billion plus for energy and the environment,” President Biden said of Congress on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says</title>
+      <link>https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html" rel="standout"/>
+      <description>A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:01:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Havana Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microwaves (Electromagnetic Waves)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burns, William J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/26/us/politics/20dc-Havana/26political-briefing-havana-moth.jpg" width="151"/>
+      <media:credit>Desmond Boylan/Associated Press</media:credit>
+      <media:description>About 1,000 cases of the mysterious illness that initially appeared at the U.S. Embassy in Havana have been reported, but of those, the C.I.A. is now focusing on about two dozen unexplained incidents.</media:description>
+    </item>
+    <item>
+      <title>Why Are Men More Likely to Die of Covid? It’s Complicated.</title>
+      <link>https://www.nytimes.com/2022/01/19/health/covid-gender-deaths-men-women.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/health/covid-gender-deaths-men-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/health/covid-gender-deaths-men-women.html" rel="standout"/>
+      <description>Sex differences in Covid death rates vary widely from state to state, suggesting they are rooted in behavior as well as biology.</description>
+      <dc:creator>Azeen Ghorayshi</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 23:22:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/science/19virus-sex/19virus-sex-moth-v2.jpg" width="151"/>
+      <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
+      <media:description>A Covid-19 patient in the intensive care unit of a hospital in La Mesa, Calif.</media:description>
+    </item>
+    <item>
+      <title>Sara McLanahan, Who Studied Single Motherhood, Dies at 81</title>
+      <link>https://www.nytimes.com/2022/01/19/us/sara-mclanahan-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/us/sara-mclanahan-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/us/sara-mclanahan-dead.html" rel="standout"/>
+      <description>A Princeton sociologist and a single mother herself, she brought her own experience to her wide body of scholarly work.</description>
+      <dc:creator>Annabelle Williams</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 03:20:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Mothers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Parents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McLanahan, Sara F (1940-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sociology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Princeton University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Wisconsin</category>
+    </item>
+    <item>
+      <title>In Sewage, Clues to Omicron’s Surge</title>
+      <link>https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html" rel="standout"/>
+      <description>Tracking the virus in wastewater is helping some cities and hospitals respond to the most recent wave of the coronavirus, but a more coordinated national effort is needed, experts say.</description>
+      <dc:creator>Emily Anthes and Sabrina Imbler</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:37:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/science/19virus-wastewater3/19virus-wastewater3-moth.jpg" width="151"/>
+      <media:credit>Sebastien Nogier/EPA, via Shutterstock</media:credit>
+      <media:description>Workers in Monaco took sewage water samples to detect coronavirus concentration in the area in 2021.</media:description>
+    </item>
+    <item>
+      <title>How Anxiety Can Benefit Us</title>
+      <link>https://www.nytimes.com/2022/01/19/well/mind/anxiety-benefits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/well/mind/anxiety-benefits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/well/mind/anxiety-benefits.html" rel="standout"/>
+      <description>There are several benefits to having an internal alarm system, experts say.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 22:31:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/well/19good-anxiety/19good-anxiety-moth.jpg" width="151"/>
+      <media:credit>Lan Truong</media:credit>
+    </item>
+    <item>
+      <title>New Research Shows How Health Risks to Children Mount as Temperatures Rise</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/children-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/children-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/children-climate-change.html" rel="standout"/>
+      <description>The first nationwide study on rising temperatures and younger Americans found that hotter days were associated with more visits to emergency rooms.</description>
+      <dc:creator>Winston Choi-Schagrin</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 16:28:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Health Perspectives (Journal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/science/19cli-childheat1/19cli-childheat1-moth.jpg" width="151"/>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>A misting station in Queens in August. National research shows that children face particular dangers during heat waves.</media:description>
+    </item>
+    <item>
+      <title>Searching for Pfizer’s Paxlovid Pills When Mom Got Covid</title>
+      <link>https://www.nytimes.com/2022/01/19/business/covid-pill-treatment-pfizer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/business/covid-pill-treatment-pfizer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/business/covid-pill-treatment-pfizer.html" rel="standout"/>
+      <description>The experience showed how hard it is for many people to get potentially lifesaving treatments.</description>
+      <dc:creator>Rebecca Robbins</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 02:08:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paxlovid (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Molnupiravir (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugstores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/00virus-pillsearch-lede/00virus-pillsearch-lede-moth.jpg" width="151"/>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+      <media:description>Mary Ann Neilsen, the author’s mother, holding her last Paxlovid pills while recovering from Covid-19.</media:description>
+    </item>
+    <item>
+      <title>Biden Administration Announces Plan to Spend Billions to Prevent Wildfires</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/biden-administration-wildfire-plan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/biden-administration-wildfire-plan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/biden-administration-wildfire-plan.html" rel="standout"/>
+      <description>The plan is an expensive one, but it is only partially funded.</description>
+      <dc:creator>Alyssa Lukpat</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:59:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/multimedia/18xp-wildfires-top2/18xp-wildfires-top2-moth-v2.jpg" width="151"/>
+      <media:credit>Max Whittaker for The New York Times</media:credit>
+      <media:description>The Caldor fire in Eldorado National Forest near Pollock Pines, Calif., last year.</media:description>
+    </item>
+    <item>
+      <title>Here’s What Scientists Know About the Tonga Volcano Eruption</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html" rel="standout"/>
+      <description>The explosion probably won’t cool the planet as some previous eruptions have done, but it could affect weather in the short term.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 20:58:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/climate/19cli-volcano1/19cli-volcano1-moth.jpg" width="151"/>
+      <media:credit>Tonga Geological Services, via Reuters</media:credit>
+      <media:description>The Hunga Tonga-Hunga Ha’apai volcano, off the coast of Tonga, on Friday.</media:description>
+    </item>
+    <item>
+      <title>After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </title>
+      <link>https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html" rel="standout"/>
+      <description>Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster.</description>
+      <dc:creator>Damien Cave, Isabella Kwai and Eric Nagourney</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 20:13:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/world/18tonga1-esp-1/18tonga1-moth.jpg" width="151"/>
+      <media:credit>Fuerza de Defensa de Nueva Zelanda</media:credit>
+      <media:description>Vista de una densa caída de ceniza en Nomuka, Tonga, el lunes</media:description>
+    </item>
+    <item>
+      <title>In Arkansas, Trans Teens Await an Uncertain Future</title>
+      <link>https://www.nytimes.com/2022/01/18/health/transgender-adolescents-arkansas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/health/transgender-adolescents-arkansas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/health/transgender-adolescents-arkansas.html" rel="standout"/>
+      <description>Even as the medical community grapples with how best to provide care to transgender adolescents, some states seek to ban it outright.</description>
+      <dc:creator>Sabrina Imbler</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 15:14:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arkansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Estrogen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/science/00-trans-arkansas-promo/00-trans-arkansas-promo-moth.jpg" width="151"/>
+      <media:credit>Liz Sanders for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A California City Is Overrun by Crows. Could a Laser Be the Answer?</title>
+      <link>https://www.nytimes.com/2022/01/17/us/sunnyvale-california-crows-lasers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/us/sunnyvale-california-crows-lasers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/us/sunnyvale-california-crows-lasers.html" rel="standout"/>
+      <description>In a move befitting its Silicon Valley setting, the city of Sunnyvale, Calif., will aim a laser at 1,000 birds that have overwhelmed the downtown area during the pandemic.</description>
+      <dc:creator>Alyssa Lukpat</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 18:43:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crows (Birds)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laser (Light Amplification by Stimulated Emission of Radiation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sunnyvale (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/lens/00xp-crows-photo/00xp-crows-photo-moth.jpg" width="151"/>
+      <media:credit>KGO-TV</media:credit>
+      <media:description>Crows fly near downtown Sunnyvale, Calif.</media:description>
+    </item>
+    <item>
+      <title>The Eerie, Lunar Nothingness of Namibia’s Skeleton Coast</title>
+      <link>https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/travel/namibia-skeleton-coast-road-trip.html" rel="standout"/>
+      <description>The stretch of coastline in southwest Africa is a strange and beautiful reminder that, in the end, we are powerless against nature and time.</description>
+      <dc:creator>Genna Martin</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 10:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Namibia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deserts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/10/travel/17travel-namibia-promo/10Namibia-combo-moth.jpg" width="151"/>
+      <media:credit>Genna Martin</media:credit>
+      <media:description>The C34 highway, along Namibia’s coast, is barely distinguishable from the surrounding desert.</media:description>
+    </item>
+    <item>
+      <title>The C.D.C.’s New Challenge? Grappling With Imperfect Science</title>
+      <link>https://www.nytimes.com/2022/01/17/health/cdc-omicron-isolation-guidance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/health/cdc-omicron-isolation-guidance.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/health/cdc-omicron-isolation-guidance.html" rel="standout"/>
+      <description>The Omicron coronavirus variant is moving much faster than researchers can, worsening a longstanding problem: The agency must make tough decisions with scant data.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 13:44:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walensky, Rochelle</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/science/14virus-cdc1/14virus-cdc1-moth.jpg" width="151"/>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>Dr. Rochelle Walensky, the C.D.C. director, right, and Dr. Anthony Fauci of the National Institute of Allergy and Infectious Diseases, during a Senate hearing in November.</media:description>
+    </item>
+    <item>
+      <title>How The mRNA Vaccines Were Made: Halting Progress and Happy Accidents</title>
+      <link>https://www.nytimes.com/2022/01/15/health/mrna-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/15/health/mrna-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/15/health/mrna-vaccine.html" rel="standout"/>
+      <description>The stunning Covid vaccines manufactured by Pfizer-BioNTech and Moderna drew upon long-buried discoveries made in the hopes of ending past epidemics.</description>
+      <dc:creator>Gina Kolata and Benjamin Mueller</dc:creator>
+      <pubDate>Sun, 16 Jan 2022 02:41:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">MERS (Middle East Respiratory Syndrome)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Barney S (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kariko, Katalin (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weissman, Drew (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McLellan, Jason (Researcher)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/01/science/00VIRUS-mRNA-promo/00VIRUS-mRNA-promo-moth.jpg" width="151"/>
+      <media:credit>Johnathon Kelso for The New York Times</media:credit>
+      <media:description>A 3-D plaster model of a coronavirus spike protein in the office of Dr. Barney Graham of the Vaccine Research Center of the National Institutes of Health.</media:description>
+    </item>
+    <item>
+      <title>Howard Solomon, 94, Dies; His Business Success Had a Personal Connection</title>
+      <link>https://www.nytimes.com/2022/01/14/business/howard-solomon-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/business/howard-solomon-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/business/howard-solomon-dead.html" rel="standout"/>
+      <description>After one of his sons fell into a deep depression, he helped him recover. He later licensed an antidepressant that was a boon to his pharmaceutical company.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 21:59:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solomon, Howard (1927-2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Laboratories Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solomon, Andrew (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antidepressants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celexa (Drug)</category>
+    </item>
+    <item>
+      <title>The Kunga Was a Status Symbol Long Before the Thoroughbred</title>
+      <link>https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/science/ancient-horses-kungas-hybrid.html" rel="standout"/>
+      <description>A new study finds the first known instance of a human-engineered hybrid, bred from a donkey and a Syrian wild ass 4,500 years ago.</description>
+      <dc:creator>James Gorman</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 19:02:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breeding of Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Donkeys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biotechnology and Bioengineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science Advances (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>For Coronavirus Testing, the Nose May Not Always Be Best</title>
+      <link>https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html" rel="standout"/>
+      <description>As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 18:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nose</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mouth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Throat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/science/14virus-saliva1/14virus-saliva1-moth.jpg" width="151"/>
+      <media:credit>Jenn Ackerman for The New York Times</media:credit>
+      <media:description>A saliva Covid-19 testing site at the University of Minnesota Field House in Minneapolis.</media:description>
+    </item>
+    <item>
+      <title>More Young Kids Are Getting Sick From Cannabis Edibles</title>
+      <link>https://www.nytimes.com/2022/01/14/well/family/marijuana-edibles-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/well/family/marijuana-edibles-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/well/family/marijuana-edibles-children.html" rel="standout"/>
+      <description>As states legalize cannabis, a growing number of children are inadvertently consuming marijuana-infused foods.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 13:37:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cannabis Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Assn of Poison Control Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/well/14well-cannabis-kids1/14well-cannabis-kids1-moth.jpg" width="151"/>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
+      <media:description>To protect children from accidentally ingesting marijuana edibles, some states have passed laws governing how these foods can be packaged and presented. </media:description>
+    </item>
+  </channel>
+</rss>

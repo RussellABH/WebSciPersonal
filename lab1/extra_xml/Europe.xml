@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Europe</title>
+    <link>https://www.nytimes.com/section/world/europe</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 01:40:38 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jan 2022 23:50:08 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World &gt; Europe</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/europe</link>
+    </image>
+    <item>
+      <title>France Sets Timeline to Lift Covid Restrictions in February</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/france-restrictions-omicron.html" rel="standout"/>
+      <description>The prime minister announced that the easing of restrictions in February would be done in stages.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:46:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castex, Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/multimedia/20virus-briefing-france-restrictions-01/20virus-briefing-france-restrictions-01-moth.jpg" width="151"/>
+      <media:credit>Julien De Rosa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>French teachers and school employees protested in Paris on Thursday against the government's handling of the Covid-19 crisis in schools.</media:description>
+    </item>
+    <item>
+      <title>80 Years Ago the Nazis Planned the ‘Final Solution.’ It Took 90 Minutes.</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html" rel="standout"/>
+      <description>As Germany observes the anniversary of the Wannsee Conference, witnesses of the Nazi era are dying and antisemitism is resurgent in Europe and the United States.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 19:59:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eichmann, Adolf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="">Wannsee Conference</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20germany-wannsee-01/20germany-wannsee-01-moth.jpg" width="151"/>
+      <media:credit>Sean Gallup/Getty Images</media:credit>
+      <media:description>Portraits of European Jews murdered during the Holocaust, at the Holocaust Memorial in Berlin, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Hardy Kruger, German-Born Hollywood Star, Is Dead at 93</title>
+      <link>https://www.nytimes.com/2022/01/20/movies/hardy-kruger-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/movies/hardy-kruger-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/movies/hardy-kruger-dead.html" rel="standout"/>
+      <description>Escaping execution by the Nazis for “cowardice” as a soldier, he found success in films because he found ways to portray “the new, good German.”</description>
+      <dc:creator>Stephen Kinzer</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:20:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kruger, Hardy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/obituaries/20kruger-image3/20kruger-image3-moth.jpg" width="151"/>
+      <media:credit>Corbis via Getty Images</media:credit>
+      <media:description>The German actor Hardy Kruger and Nicole Courcel in the Oscar-winning French film “Sundays and Cybèle” (1962).</media:description>
+    </item>
+    <item>
+      <title>‘She Was Just Going for a Run’: Anger in Ireland Over Teacher’s Murder</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/ireland-ashling-murphy-murder.html" rel="standout"/>
+      <description>Ashling Murphy, a 23-year-old first-grade teacher, was out jogging when she was attacked. Her death has prompted outrage over women’s safety.</description>
+      <dc:creator>Ed O’Loughlin</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 16:31:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">County Offaly (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murphy, Ashling (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puska, Jozef</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20ireland-killing-01/20ireland-killing-01-moth.jpg" width="151"/>
+      <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
+      <media:description>Students of Ashling Murphy held portraits of her at her funeral in Mountbolus, Ireland, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>How, and Why, Boris Johnson Could Lose His Job as U.K. Prime Minister</title>
+      <link>https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html</guid>
+      <atom:link href="https://www.nytimes.com/article/boris-johnson-prime-minister-explained.html" rel="standout"/>
+      <description>Mr. Johnson’s future is in doubt after two humiliating apologies about parties while the country was under Covid restrictions. Here’s a guide to how he could be forced out, or fight on.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 14:50:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/13/world/13uk-politics-explainer/13uk-politics-explainer-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Jack Hill</media:credit>
+      <media:description>Escaping scrapes is one of Prime Minister Boris Johnson’s career-defining political skills.</media:description>
+    </item>
+    <item>
+      <title>On Ukraine and Russia, Biden Flusters European Allies by Stating the Obvious</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html" rel="standout"/>
+      <description>After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies.</description>
+      <dc:creator>Michael Crowley and Steven Erlanger</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 23:50:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Social Democratic Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baerbock, Annalena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borrell Fontelles, Josep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lambrecht, Christine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lavrov, Sergey V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sherman, Wendy R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoltenberg, Jens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20ukraine-europe-01/20ukraine-europe-01-moth.jpg" width="151"/>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier on the front line in Zolote, eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html" rel="standout"/>
+      <description>A newly released report by a law firm said the former pope mishandled at least four cases of sexual abuse accusations in Germany.</description>
+      <dc:creator>Jason Horowitz, Elisabetta Povoledo and Gaia Pianigiani</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 22:35:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benedict XVI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marx, Reinhard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Munich (Germany)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20germany-church-top/20germany-church-top-moth.jpg" width="151"/>
+      <media:credit>Maurizio Brambatti/European Pressphoto Agency</media:credit>
+      <media:description>Pope Benedict in the Vatican in 2013, days before his resignation took effect.</media:description>
+    </item>
+    <item>
+      <title>Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html" rel="standout"/>
+      <description>When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 14:23:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutherford, Zara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20xp-aviator1/20xp-aviator1-moth-v3.jpg" width="151"/>
+      <media:credit>John Thys/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Zara Rutherford greets supporters after landing at an airport in Kortrijk, Belgium, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>1922: Thief Returns Diplomat’s Stolen Wallet</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/1922-stolen-wallet-returned.html" rel="standout"/>
+      <description>After the official issued a personal plea to the person he suspected of being the culprit, his wallet was returned, with some cash missing but other possessions intact.</description>
+      <dc:creator>The International Herald Tribune</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>American Airlines Flight Turns Back Over Passenger Mask Dispute</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/american-airlines-passenger-mask.html" rel="standout"/>
+      <description>The London-bound flight was about 500 miles into its 4,400-mile journey when it reversed course and returned to Miami.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 18:21:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2022/01/20/briefing/ukraine-russia-iran-spain-tourism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/briefing/ukraine-russia-iran-spain-tourism.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/briefing/ukraine-russia-iran-spain-tourism.html" rel="standout"/>
+      <description>Will Putin act on Ukraine?</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 05:51:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/multimedia/20ambriefing-europe-ukraine-trench/merlin_200512896_c40b23a9-0f9a-48c6-a94e-c5fc82ad65e5-moth.jpg" width="151"/>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier this week on the front line of Katerynivka, in eastern Ukraine. </media:description>
+    </item>
+    <item>
+      <title>Biden Predicts Russia Will Invade Ukraine</title>
+      <link>https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html" rel="standout"/>
+      <description>President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 02:53:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/us/politics/19dc-prexy/19dc-prexy-moth-v2.jpg" width="151"/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Biden’s comments went well beyond the current intelligence assessments described by White House officials.</media:description>
+    </item>
+    <item>
+      <title>Russia and Iran Put on a Show of Unity — Against the U.S.</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/russia-iran-unity-us.html" rel="standout"/>
+      <description>Vladimir V. Putin met at the Kremlin with Iran’s new leader, Ebrahim Raisi, at a time when both their countries, despite their differences, are at odds with Washington.</description>
+      <dc:creator>Anton Troianovski, Farnaz Fassihi and Steven Erlanger</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:38:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+    </item>
+    <item>
+      <title>Ricardo Bofill, Architect of Otherworldly Buildings, Dies at 82</title>
+      <link>https://www.nytimes.com/2022/01/19/arts/design/ricardo-bofill-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/arts/design/ricardo-bofill-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/arts/design/ricardo-bofill-dead.html" rel="standout"/>
+      <description>His structures were so bold, they were the backdrops for TV shows and films, including “Westworld” and a “Hunger Games” movie. But they were also socially aware.</description>
+      <dc:creator>Fred A. Bernstein</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 23:02:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bofill, Ricardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldberger, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barcelona (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Westworld (TV Program)</category>
+    </item>
+    <item>
+      <title>Syrian Doctor Accused of Atrocities Goes on Trial in Germany</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/germany-syria-war-crimes-mousa.html" rel="standout"/>
+      <description>The charges against Alaa Mousa include torturing opponents of the Assad regime in military hospitals in Syria, and murdering at least one by lethal injection.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 13:04:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mousa, Alaa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19german-syria1/merlin_200556384_93644974-7743-4e09-b7b3-3dfaab308852-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Boris Roessler</media:credit>
+      <media:description>A Syrian doctor, Alaa Mousa, went on trial in Frankfurt, Germany, on Wednesday, charged with torturing opponents of the Syrian regime and murdering one of them.</media:description>
+    </item>
+    <item>
+      <title>Gaspard Ulliel, 37, 'Moon Knight' and 'Hannibal Rising' Star, Dies Skiing</title>
+      <link>https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html" rel="standout"/>
+      <description>He gained fame as a young Hannibal Lecter and the designer Yves Saint Laurent. He died after a skiing accident weeks before he is to appear in a Disney+ series.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:33:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ulliel, Gaspard (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saint Laurent (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Strayed (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hannibal Rising (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Moon Knight (Movie)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/arts/19Gaspard-Ulliel-1-print1/19Gaspard-Ulliel-1-moth-v2.jpg" width="151"/>
+      <media:credit>Loic Venance/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Gaspard Ulliel in 2019. “His sensitivity and the intensity of his acting” made him “an exceptional actor,” the French culture minister said.</media:description>
+    </item>
+    <item>
+      <title>A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html" rel="standout"/>
+      <description>The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 01:31:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Svalbard and Jan Mayen (Norway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+    </item>
+    <item>
+      <title>Court in Ukraine Declines Request to Arrest Former President</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/ukraine-poroshenko-zelensky.html" rel="standout"/>
+      <description>A feud between President Volodymyr Zelensky and his predecessor, Petro O. Poroshenko, has carried on despite the risk the country is facing from Russia.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 16:19:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Poroshenko, Petro Olekseyevich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treason and Sedition</category>
+    </item>
+    <item>
+      <title>Undeterred by Omicron, Tourists Seek Sun in a Welcoming Spain</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/spain-covid-canary-islands.html" rel="standout"/>
+      <description>For decades, Spain has been a prime destination for European snowbirds. Even as the Omicron variant spreads, the country is keeping its doors wide open to visitors.</description>
+      <dc:creator>Nicholas Casey and José Bautista</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 14:08:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canary Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/world/18spain-tourism1/18spain-tourism1-moth.jpg" width="151"/>
+      <media:credit>Samuel Aranda for The New York Times</media:credit>
+      <media:description>Tourists watching the sunset from a vantage point on Lanzarote, one of the Canary Islands. </media:description>
+    </item>
+    <item>
+      <title>Silvio Berlusconi Angles for Italy’s Presidency, Bunga Bunga and All</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/berlusconi-italy-president-mario-draghi.html" rel="standout"/>
+      <description>The billionaire former prime minister is working hard to persuade lawmakers to vote for him next week, despite an unusual résumé for a job resting on moral authority.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 16:27:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Five Star Movement (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">League (Italian Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattarella, Sergio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Di Maio, Luigi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grillo, Beppe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19Berlusconi01/19Berlusconi01-moth.jpg" width="151"/>
+      <media:credit>Claudio Furlan/LaPresse, via Associated Press</media:credit>
+      <media:description>Silvio Berlusconi in Milan in October.</media:description>
+    </item>
+  </channel>
+</rss>

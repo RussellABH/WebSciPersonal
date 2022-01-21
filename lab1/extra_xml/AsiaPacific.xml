@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Asia Pacific</title>
+    <link>https://www.nytimes.com/section/world/asia</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 01:44:22 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 00:31:25 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World &gt; Asia Pacific</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/asia</link>
+    </image>
+    <item>
+      <title>Your Friday Briefing: Tougher Words on Russia</title>
+      <link>https://www.nytimes.com/2022/01/20/briefing/ukraine-russia-djokovic-mit-tonga.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/briefing/ukraine-russia-djokovic-mit-tonga.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/briefing/ukraine-russia-djokovic-mit-tonga.html" rel="standout"/>
+      <description>The West stressed a unified response after Biden’s stumble.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:16:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/21/world/012122ambriefing-asia-promo/21ambriefing-asia-ukraine-moth.jpg" width="151"/>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>The Ukrainian military on the front line of Katerynivka, in the Luhansk Oblast province of eastern Ukraine, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Drops Its Case Against M.I.T. Scientist Accused of Hiding China Links</title>
+      <link>https://www.nytimes.com/2022/01/20/science/gang-chen-mit-china-initiative.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/science/gang-chen-mit-china-initiative.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/science/gang-chen-mit-china-initiative.html" rel="standout"/>
+      <description>Gang Chen, a professor of mechanical engineering, was arrested a year ago, accused of concealing his affiliations with Chinese government institutions.</description>
+      <dc:creator>Ellen Barry and Katie Benner</dc:creator>
+      <pubDate>Fri, 21 Jan 2022 00:31:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen, Gang (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/05/science/05CHEN/05CHEN-moth.jpg" width="151"/>
+      <media:credit>M.I.T.</media:credit>
+      <media:description>Gang Chen, an M.I.T. scientist, was arrested in 2021 as part of the China Initiative, a government anti-espionage effort that has come under criticism for singling out scientists of Chinese heritage.</media:description>
+    </item>
+    <item>
+      <title>Zara Rutherford Becomes Youngest Woman to Circle the Globe Solo</title>
+      <link>https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/europe/zara-rutherford-plane-pilot.html" rel="standout"/>
+      <description>When Zara Rutherford landed on Thursday, she became the youngest woman to circumnavigate the globe solo. “I’m just happy to finally also be in the same spot for a few months,” she said.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 14:23:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutherford, Zara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20xp-aviator1/20xp-aviator1-moth-v3.jpg" width="151"/>
+      <media:credit>John Thys/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Zara Rutherford greets supporters after landing at an airport in Kortrijk, Belgium, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Lockdown Made Their Second Date Last Weeks. Would Romance Bloom?</title>
+      <link>https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/asia/china-blind-date-lockdown.html" rel="standout"/>
+      <description>Sparks didn’t fly on their first blind date. Then the city shut down while she was visiting.</description>
+      <dc:creator>John Liu</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 11:11:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shaanxi Province (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>This Ancient Brew Has Retro Appeal in South Korea</title>
+      <link>https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/asia/south-korea-makgeolli-rice-wine.html" rel="standout"/>
+      <description>Makgeolli, a rice wine made by Korean farmers for centuries, has become a cosmopolitan sensation over the past decade. The buzz grew during Covid lockdowns.</description>
+      <dc:creator>Chang W. Lee and Mike Ives</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 23:05:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
+      <category domain="">makgeolli</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/world/00skorea-ricewine-01/00skorea-ricewine-01-moth.jpg" width="151"/>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Han A-young, the owner of Hanayangjo, labelling bottles of makgeolli she made in Seoul, in June.</media:description>
+    </item>
+    <item>
+      <title>The Plans for the World’s Next Largest City Are Incomplete</title>
+      <link>https://www.nytimes.com/2022/01/20/world/asia/delhi-worlds-largest-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/asia/delhi-worlds-largest-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/asia/delhi-worlds-largest-city.html" rel="standout"/>
+      <description>Delhi is growing far beyond the formal confines of the city, a case study in the complexity of what we call urbanization.</description>
+      <dc:creator>Sarika Bansal</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+    </item>
+    <item>
+      <title>Ash From Tonga Volcanic Eruption Still Poses a Threat</title>
+      <link>https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/asia/tonga-eruption-ash.html" rel="standout"/>
+      <description>Ash from a volcanic eruption in the South Pacific nation presents risks to drinking water and air quality, experts say. Quantifying them in real time is a challenge.</description>
+      <dc:creator>Mike Ives and Eric Nagourney</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 22:10:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20tonga-ash-top/20tonga-ash-top-moth.jpg" width="151"/>
+      <media:credit>New Zealand Defence Force, via Reuters</media:credit>
+      <media:description>Heavy ash fell over Nomuka, Tonga, as seen from a New Zealand military surveillance flight on Monday.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing: Blinken Visits Ukraine</title>
+      <link>https://www.nytimes.com/2022/01/19/briefing/blinken-ukraine-britain-covid-taiwan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/briefing/blinken-ukraine-britain-covid-taiwan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/briefing/blinken-ukraine-britain-covid-taiwan.html" rel="standout"/>
+      <description>U.S. officials pushed back on Moscow’s negotiation demands.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 21:28:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/20ambriefing-asia-nl-ukraine-promo/19diplo-ukraine-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Alex Brandon</media:credit>
+      <media:description>Secretary of State Antony J. Blinken, right, met Ukraine’s president, Volodymyr Zelensky, in Kyiv on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Drone Strike Video Shows Killing of Civilians in Afghanistan</title>
+      <link>https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html" rel="standout"/>
+      <description>The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit.</description>
+      <dc:creator>Charlie Savage, Eric Schmitt, Azmat Khan, Evan Hill and Christoph Koettl</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 13:55:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milley, Mark A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+    </item>
+    <item>
+      <title>Belgium Convicts 18 in People-Smuggling Case Tied to U.K. Truck Deaths</title>
+      <link>https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/europe/essex-lorry-deaths-verdict-belgium.html" rel="standout"/>
+      <description>A Belgian court convicted a man said to have been the leader of a human trafficking operation that resulted in the deaths of 39 Vietnamese migrants in 2019. More than a dozen others were also found guilty.</description>
+      <dc:creator>Monika Pronczuk</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 21:05:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Europol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19belgium1/19belgium1-moth.jpg" width="151"/>
+      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The bodies were discovered in a truck parked at Waterglade Industrial Park in Grays, east of London, more than two years ago.</media:description>
+    </item>
+    <item>
+      <title>Japan places Tokyo and 12 other prefectures under a quasi-state of emergency because of Omicron.</title>
+      <link>https://www.nytimes.com/2022/01/19/world/asia/japan-places-tokyo-and-12-other-prefectures-under-a-quasi-state-of-emergency-because-of-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/asia/japan-places-tokyo-and-12-other-prefectures-under-a-quasi-state-of-emergency-because-of-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/asia/japan-places-tokyo-and-12-other-prefectures-under-a-quasi-state-of-emergency-because-of-omicron.html" rel="standout"/>
+      <description/>
+      <dc:creator>Hikari Hida</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 10:35:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Osaka (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/19virus-briefing-japan-emergency/19virus-briefing-japan-emergency-moth.jpg" width="151"/>
+      <media:credit>Carl Court/Getty Images</media:credit>
+      <media:description>Tokyo last week. Thirteen additional prefectures in Japan will be placed under a quasi-state of emergency because of a rise in Omicron cases.</media:description>
+    </item>
+    <item>
+      <title>China's Rising Menace Hardens Taiwan's Separate Identity</title>
+      <link>https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html" rel="standout"/>
+      <description>More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness.</description>
+      <dc:creator>Amy Qin and Amy Chang Chien</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 09:37:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/world/00taiwan-identity01/00taiwan-identity01-moth.jpg" width="151"/>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Li Yuan-hsin, right, with her husband and daughter at a day care center in Chiayi, Taiwan. Ms. Li is among the more than 60 percent of the island’s people who identify as solely Taiwanese.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing: A Race to Dominate the Metaverse</title>
+      <link>https://www.nytimes.com/2022/01/18/briefing/microsoft-metaverse-omicron-australian-open.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/briefing/microsoft-metaverse-omicron-australian-open.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/briefing/microsoft-metaverse-omicron-australian-open.html" rel="standout"/>
+      <description>Microsoft said it planned to buy the video game company Activision Blizzard for nearly $70 billion.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 20:51:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/19ambriefing-asia-nl-PROMO/18microsoft-activision1-moth.jpg" width="151"/>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>Playing Call of Duty: Black Ops at Paris Games Week in 2018.</media:description>
+    </item>
+    <item>
+      <title>N.B.A.’s Warriors Disavow Part-Owner’s Uyghur Comments</title>
+      <link>https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/sports/basketball/warriors-chamath-palihapitiya-uyghurs-nba.html" rel="standout"/>
+      <description>The Golden State Warriors distanced themselves from a minority stakeholder, Chamath Palihapitiya, who said “nobody cares” about the Uyghurs, the ethnic group that has faced a deadly crackdown in China.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 17:03:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Palihapitiya, Chamath</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/world/18xp-uighur/18xp-uighur-moth.jpg" width="151"/>
+      <media:credit>Brendan Mcdermid/Reuters</media:credit>
+      <media:description>Chamath Palihapitiya, who runs a venture capital firm, said on his podcast that concern about human rights abuses outside the United States was “a luxury belief.”</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Will Cull Thousands of Hamsters After Covid Cases</title>
+      <link>https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/world/asia/covid-hong-kong-hamsters.html" rel="standout"/>
+      <description>Officials said it was not clear that the virus had been transmitted to humans from the animals. But they called on residents to surrender recently imported hamsters.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 01:28:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hamsters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/world/18virus-briefing-hamster/18virus-briefing-hamster-moth.jpg" width="151"/>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <media:description>Two people and at least 11 hamsters connected to the Little Boss pet shop in Hong Kong tested positive for Covid.</media:description>
+    </item>
+    <item>
+      <title>Two Earthquakes in Afghanistan Kill at Least 27</title>
+      <link>https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/world/asia/afghanistan-earthquakes.html" rel="standout"/>
+      <description>The quakes struck about two hours apart in a western border province along the border with Turkmenistan.</description>
+      <dc:creator>David Zucchino and Sharif Hassan</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 22:50:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Badghis Province (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qala-e-Naw (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/multimedia/18afghan-quake-top2/18afghan-quake-top2-moth.jpg" width="151"/>
+      <media:credit>Abdul Raziq Saddiqi/Associated Press</media:credit>
+      <media:description>Afghan villagers removing bricks after their home was damaged by Monday’s earthquake in the remote western province of Badghis.</media:description>
+    </item>
+    <item>
+      <title>After Tonga's Volcano Eruption, Worries Grow About Covid Exposure </title>
+      <link>https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/world/australia/tonga-volcano-covid.html" rel="standout"/>
+      <description>Aid workers risk bringing in a virus Tonga has so far kept out. But there are more immediate problems, as its government confirmed in its first statement since the disaster.</description>
+      <dc:creator>Damien Cave, Isabella Kwai and Eric Nagourney</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 20:13:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/world/18tonga1-esp-1/18tonga1-moth.jpg" width="151"/>
+      <media:credit>Fuerza de Defensa de Nueva Zelanda</media:credit>
+      <media:description>Vista de una densa caída de ceniza en Nomuka, Tonga, el lunes</media:description>
+    </item>
+    <item>
+      <title>2 Earthquakes in Remote Area of Western Afghanistan Kill at Least 22</title>
+      <link>https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/world/asia/afghanistan-earthquake-badghis-province.html" rel="standout"/>
+      <description>There were fears the death toll could rise as the first rescuers reached some of the mountainous villages struck by the temblors in one of Afghanistan’s most impoverished regions.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 03:16:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Badghis Province (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: China Limits Olympic Spectators</title>
+      <link>https://www.nytimes.com/2022/01/17/briefing/beijing-olympics-tonga-tsunami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/briefing/beijing-olympics-tonga-tsunami.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/briefing/beijing-olympics-tonga-tsunami.html" rel="standout"/>
+      <description>Tickets for the Winter Olympics will not be sold to the public.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 21:31:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/multimedia/18ambriefing-asia-nl-OLY/18ambriefing-asia-nl-OLY-moth.jpg" width="151"/>
+      <media:credit>Wang Zhao/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Installations for the 2022 Winter Olympic Games and Paralympic Games in Beijing.</media:description>
+    </item>
+    <item>
+      <title>China Won't Sell Olympics Tickets to Chinese Public</title>
+      <link>https://www.nytimes.com/2022/01/17/world/asia/china-olympics-ticket-sales.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/17/world/asia/china-olympics-ticket-sales.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/17/world/asia/china-olympics-ticket-sales.html" rel="standout"/>
+      <description/>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 20:50:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/17/multimedia/17virus-briefing-olympics2/17virus-briefing-olympics2-moth.jpg" width="151"/>
+      <media:credit>Tasos Katopodis/Getty Images</media:credit>
+      <media:description>Workers preparing the ice last week in the Beijing Capitol Indoor Stadium ahead of the Winter Games.</media:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Americas</title>
+    <link>https://www.nytimes.com/section/world/americas</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 01:42:14 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jan 2022 22:25:55 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World &gt; Americas</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/americas</link>
+    </image>
+    <item>
+      <title>U.S. Charges New Suspect in Haiti President’s Murder, Widening Investigation</title>
+      <link>https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/americas/haiti-president-murder-suspect.html" rel="standout"/>
+      <description>The case could help U.S. prosecutors get closer to the people who plotted the assassination of President Jovenel Moïse of Haiti.</description>
+      <dc:creator>Anatoly Kurmanaev</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 22:25:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jaar, Rodolphe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20haiti/20haiti-moth.jpg" width="151"/>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>The funeral of President Jovenel Moïse in July.</media:description>
+    </item>
+    <item>
+      <title>U.N. Approves Israeli Measure to Condemn Holocaust Denial</title>
+      <link>https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/world/americas/united-nations-holocaust-resolution.html" rel="standout"/>
+      <description>The resolution was aimed at combating what Israel and other countries have described as an epidemic of disinformation about the murder of nearly six million Jews and millions of others by the Nazis.</description>
+      <dc:creator>Rick Gladstone</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:41:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Concentration Camps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Auschwitz Concentration Camp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/world/20nations-holocaust-01/20nations-holocaust-01-moth.jpg" width="151"/>
+      <media:credit>Abir Sultan/EPA, via Shutterstock</media:credit>
+      <media:description>The ‘Hall of Names’ at the Yad Vashem Holocaust Memorial museum on the eve of Holocaust Remembrance Day last year in Jerusalem.</media:description>
+    </item>
+    <item>
+      <title>A Trove of Old Photos Could Reveal the Future of These Arctic Glaciers</title>
+      <link>https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html" rel="standout"/>
+      <description>The Svalbard Islands, part of Norway, are warming seven times faster than the global average. Aerial pictures from the 1930s are helping researchers understand what that means for the region’s ice.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 01:31:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Svalbard and Jan Mayen (Norway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+    </item>
+    <item>
+      <title>In Peru, Courts ‘Used Like Whips’ to Silence Journalists</title>
+      <link>https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/world/americas/peru-christopher-acosta-cesar-acuna.html" rel="standout"/>
+      <description>The author of a book about a powerful politician has been sentenced to two years in prison. Media advocates say the case is part of a trend in which the courts are being used to punish critics.</description>
+      <dc:creator>Julie Turkewitz and Mitra Taj</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 15:03:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/17/world/17peru/17peru-moth.jpg" width="151"/>
+      <media:credit>Angela Ponce for The New York Times</media:credit>
+      <media:description>The Peruvian journalist Christopher Acosta has been sentenced to two years in prison and, with his publisher, fined $100,000 following a defamation lawsuit brought by a powerful politician.</media:description>
+    </item>
+    <item>
+      <title>Ingrid Betancourt to Make a Bid for President of Colombia</title>
+      <link>https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/world/americas/colombia-ingrid-betancourt.html" rel="standout"/>
+      <description>Ingrid Betancourt’s candidacy comes at a critical time, when Colombians are fed up with the political establishment and the future of the peace agreement is at stake.</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 23:17:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Betancourt, Ingrid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/world/18colombia-1/18colombia-1-moth.jpg" width="151"/>
+      <media:credit>Nathalia Angarita for The New York Times</media:credit>
+      <media:description>Ingrid Betancourt, the politician and former FARC hostage, said she would run for president. Her bid comes as the country is at a critical crossroads.</media:description>
+    </item>
+    <item>
+      <title>Why a Stranded Barge Has Become a Popular Vancouver Photo Spot</title>
+      <link>https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/travel/vancouver-barge-stranded-sighstseeing.html" rel="standout"/>
+      <description>Washed ashore during a fierce November storm, a massive barge has become both a popular sightseeing spot and meme in Vancouver.</description>
+      <dc:creator>Gerald Narciso</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 17:55:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vancouver (British Columbia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/travel/18Barge-Vancouver1/18Barge-Vancouver1-moth.jpg" width="151"/>
+      <media:credit>Martin Tessler for The New York Times</media:credit>
+      <media:description>The beached barge is a favorite spot to take selfies in Vancouver. It crashed ashore during a November storm, initially raising fear that it might collide with the Burrard Bridge, a  historic, four-lane truss bridge in the background.</media:description>
+    </item>
+    <item>
+      <title>Tonga Shrouded by Ash and Mystery After Powerful Volcano Erupts</title>
+      <link>https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/16/world/asia/tonga-tsunami-peru.html" rel="standout"/>
+      <description>So far, the only deaths reported occurred 6,000 miles away, in Peru. But outside emergency workers have yet to make their way to the Pacific island nation.</description>
+      <dc:creator>Natasha Frost, Mitra Taj and Eric Nagourney</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 12:19:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/world/16tonga-tsunami1/16tonga-tsunami1-moth.jpg" width="151"/>
+      <media:credit>National Institute of Information and Communications Technology (NICT), via Associated Press</media:credit>
+      <media:description>A satellite image showing the undersea volcano eruption, right, off the Pacific nation of Tonga.</media:description>
+    </item>
+    <item>
+      <title>Ontario Town Still Searching for Answers in Gas Leak Explosion</title>
+      <link>https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/15/world/canada/wheatley-ontario-explosion.html" rel="standout"/>
+      <description>Hundreds of people in Wheatley, Ontario, are still out of their homes four months after a gas leak blew up three buildings in the town’s center.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 16:39:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Banks and Pantries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wheatley (Ontario)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/world/14Canadaletter1/14Canadaletter1-moth.jpg" width="151"/>
+      <media:credit>Tara Walton for The New York Times</media:credit>
+      <media:description>The center of Wheatley, Ontario, has been closed off since August.</media:description>
+    </item>
+    <item>
+      <title>Mass Trials in Cuba Deepen Its Harshest Crackdown in Decades</title>
+      <link>https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/world/americas/cuba-mass-trials-crackdown.html" rel="standout"/>
+      <description>Following nationwide demonstrations last year, more than 60 people were put on trial this week, some facing up to 30 years behind bars.</description>
+      <dc:creator>Anatoly Kurmanaev and Oscar Lopez</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 16:44:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diaz-Canel Bermudez, Miguel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Havana (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/world/14Cuba1/14Cuba1-moth.jpg" width="151"/>
+      <media:credit>Yamil Lage/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Thousands of Cubans demonstrated in Havana in July.</media:description>
+    </item>
+    <item>
+      <title>Journalists in El Salvador Targeted With Spyware Intended for Criminals</title>
+      <link>https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/12/world/americas/el-salvador-journalists-spyware.html" rel="standout"/>
+      <description>The announcement came months after the U.S. government blacklisted the Israeli firm that produces Pegasus, the technology used to target the journalists.</description>
+      <dc:creator>Maria Abi-Habib</dc:creator>
+      <pubDate>Thu, 13 Jan 2022 02:03:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Access Now</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">El Faro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NSO Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/12/world/12salvador/12salvador-moth.jpg" width="151"/>
+      <media:credit>Rodrigo Sura/EPA, via Shutterstock</media:credit>
+      <media:description>Spyware has been found on the phones of 22 reporters and editors from the El Faro newspaper in El Salvador over the last year.</media:description>
+    </item>
+    <item>
+      <title>Miami-Bound Passenger Storms Cockpit in Honduras, Causing Flight Delay</title>
+      <link>https://www.nytimes.com/2022/01/11/business/american-airlines-honduras-passenger-cockpit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/11/business/american-airlines-honduras-passenger-cockpit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/11/business/american-airlines-honduras-passenger-cockpit.html" rel="standout"/>
+      <description>As the American Airlines flight was boarding on Tuesday afternoon, the passenger entered the cockpit and “caused damage,” the airline said.</description>
+      <dc:creator>Alyssa Lukpat</dc:creator>
+      <pubDate>Wed, 12 Jan 2022 04:13:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/11/multimedia/11xp-american-top/11xp-american-top-moth.jpg" width="151"/>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>Airlines have had to deal with thousands of cancellations and delays in recent months. </media:description>
+    </item>
+    <item>
+      <title>Citigroup seeks a split from a Mexico business that brought it riches and scandal.</title>
+      <link>https://www.nytimes.com/2022/01/11/business/citigroup-banamex.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/11/business/citigroup-banamex.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/11/business/citigroup-banamex.html" rel="standout"/>
+      <description>The business, known as Banamex, has generated heavy regulatory scrutiny.</description>
+      <dc:creator>Emily Flitter</dc:creator>
+      <pubDate>Tue, 11 Jan 2022 23:15:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Banamex USA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Banco Nacional de Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grupo Financiero Banamex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citigroup Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fraser, Jane (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/11/multimedia/11economy-briefing-citi/11economy-briefing-citi-moth.jpg" width="151"/>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <media:description>Citi bought Banco Nacional de México, better known as Banamex, in 2001 for $12.5 billion.</media:description>
+    </item>
+    <item>
+      <title>Source of Mysterious Gas Leak Explosion in Canadian Town Stumps Officials</title>
+      <link>https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/11/world/canada/wheatley-ontario-gas-explosion.html" rel="standout"/>
+      <description>An explosion last summer in an Ontario community built on 19th-century gas wells has left locals searching for answers and some certainty that their town will ever recover.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Tue, 11 Jan 2022 21:09:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wheatley (Ontario)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/11/world/11canada-explosion/11canada-explosion-moth.jpg" width="151"/>
+      <media:credit>Tara Walton for The New York Times</media:credit>
+      <media:description>Downtown Wheatley, Ontario, where a large gas explosion last August destroyed three buildings. </media:description>
+    </item>
+    <item>
+      <title>Haitian Prime Minister Had Close Links With Murder Suspect</title>
+      <link>https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/10/world/americas/haitian-prime-minister-assassination-suspect.html" rel="standout"/>
+      <description>New evidence suggests the man who took over from Haiti’s murdered president had close links to a prime suspect in the assassination — and that the two stayed in contact even after the crime.</description>
+      <dc:creator>Anatoly Kurmanaev</dc:creator>
+      <pubDate>Tue, 11 Jan 2022 00:02:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Ariel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Badio, Joseph Felix</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jaar, Rodolphe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/09/world/09Haiti-Jaar1/09Haiti-Jaar1-moth.jpg" width="151"/>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <media:description>President Jovenel Moïse, who was assassinated in July, led Haiti by decree and turned to authoritarian tactics.</media:description>
+    </item>
+    <item>
+      <title>Cliff Collapses on Boaters in Brazil, Killing 10</title>
+      <link>https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/09/world/americas/brazil-cliff-collapses.html" rel="standout"/>
+      <description>The tragedy in Minas Gerais state gripped the nation because it was captured on videos that showed an immense slab of rock smashing into pleasure boats.</description>
+      <dc:creator>Ernesto Londoño</dc:creator>
+      <pubDate>Sun, 09 Jan 2022 20:14:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minas Gerais (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/09/world/09brazil-cliff1/09brazil-cliff1-moth.jpg" width="151"/>
+      <media:credit>Andre Penner/Associated Press</media:credit>
+      <media:description>A canyon in Lake Furnas, near Capitólio in southeast Brazil.</media:description>
+    </item>
+    <item>
+      <title>The James Webb Telescope Finishes Deployment in Space</title>
+      <link>https://www.nytimes.com/2022/01/08/science/james-webb-telescope-nasa-deployment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/08/science/james-webb-telescope-nasa-deployment.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/08/science/james-webb-telescope-nasa-deployment.html" rel="standout"/>
+      <description>Everything is going great for the James Webb Space Telescope. So far.</description>
+      <dc:creator>Dennis Overbye and Joey Roulette</dc:creator>
+      <pubDate>Sat, 08 Jan 2022 22:25:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">James Webb Space Telescope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Telescope Science Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/08/science/08webb-update4/08webb-update4-moth.jpg" width="151"/>
+      <media:credit>Adriana Manrique Gutierrez/NASA</media:credit>
+      <media:description>An artist’s concept of the fully deployed and unfolded James Webb Space Telescope, which is currently on its way to a spot called L2, where it will orbit the sun. It is now 600,000 miles from Earth.</media:description>
+    </item>
+    <item>
+      <title>BlackBerry Phone Service Officially Ends</title>
+      <link>https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/08/world/canada/blackberry-phone-service-ends.html" rel="standout"/>
+      <description>BlackBerry was once Canada’s most valuable company and a global force in tech. The final step in its downfall as a phone maker arrived this week.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 08 Jan 2022 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">BlackBerry (Handheld Device)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BlackBerry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Balsillie, James L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/world/8canadaletter-display/8canadaletter-03-moth.jpg" width="151"/>
+      <media:credit>John Macdougall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A BlackBerry poster at a trade fair in Hanover, Germany, in 2008.</media:description>
+    </item>
+    <item>
+      <title>Covid Cases Reach Pandemic High at Guantánamo Bay</title>
+      <link>https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/world/americas/guantanamo-bay-covid-outbreak.html" rel="standout"/>
+      <description>The American base has reinstated a mandate for wearing masks indoors in response to an increase in infections.</description>
+      <dc:creator>Carol Rosenberg</dc:creator>
+      <pubDate>Sat, 08 Jan 2022 21:54:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jacksonville (Fla)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/multimedia/07-virusbrief-gitmo/07-virusbrief-gitmo-moth.jpg" width="151"/>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Members of the American military waiting for their turn to be vaccinated at the Guantánamo Bay Naval Base in Cuba in September. Infections at the base have reached a pandemic high.</media:description>
+    </item>
+    <item>
+      <title>Airlines Strand Passengers Who Partied on Flight Without Masks</title>
+      <link>https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/world/canada/montreal-cancun-party-flight.html" rel="standout"/>
+      <description>A group of Canadian social media influencers and others flouted Covid-19 rules on a flight to Cancún, Mexico, resulting in airlines leaving many of them without a way home.</description>
+      <dc:creator>Maria Cramer</dc:creator>
+      <pubDate>Tue, 11 Jan 2022 14:59:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sunwing Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cancun (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transport Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="">111 Private Club</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/multimedia/07xp-cancun1/07xp-cancun1-moth.jpg" width="151"/>
+      <media:credit>Geoff Robins/AFP — Getty Images</media:credit>
+      <media:description>Maskless Canadian passengers partied on a Sunwing Airlines plane. Now they are being investigated for violating the country’s aviation rules and Covid restrictions.</media:description>
+    </item>
+    <item>
+      <title>How Many Bagels Does It Take to Keep a Place in Business?</title>
+      <link>https://www.nytimes.com/2022/01/07/business/st-viateur-ess-a-bagel-business.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/07/business/st-viateur-ess-a-bagel-business.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/07/business/st-viateur-ess-a-bagel-business.html" rel="standout"/>
+      <description>Two quintessential bagel shops dish on the business of selling lots and lots of bagels.</description>
+      <dc:creator>Julia Rothman and Shaina Feinberg</dc:creator>
+      <pubDate>Fri, 07 Jan 2022 22:39:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bagels</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/07/business/07scratch-promo/07scratch-promo-moth.jpg" width="151"/>
+      <media:credit>Julia Rothman</media:credit>
+    </item>
+  </channel>
+</rss>

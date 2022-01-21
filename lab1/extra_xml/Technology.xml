@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 02:12:00 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jan 2022 21:32:37 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>Will Congress Pass New Regulation on Big Tech? Time May Be Running Out.</title>
+      <link>https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html" rel="standout"/>
+      <description>With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry.</description>
+      <dc:creator>Cecilia Kang and David McCabe</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 21:32:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grassley, Charles E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klobuchar, Amy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/21/business/20bigtech2/20bigtech2-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Erin Schaff</media:credit>
+      <media:description>Senator Charles E. Grassley, along with Senator Amy Klobuchar, has introduced a bill that would bar major tech platforms from giving their own products favorable sales treatment.</media:description>
+    </item>
+    <item>
+      <title>What to Wear in the Metaverse</title>
+      <link>https://www.nytimes.com/2022/01/20/style/metaverse-fashion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/style/metaverse-fashion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/style/metaverse-fashion.html" rel="standout"/>
+      <description>Dressing for a virtual world is going to be both enormously liberating and potentially very, very messy.</description>
+      <dc:creator>Vanessa Friedman</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 19:24:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metaverse (Internet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="">Digital Fashion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/fashion/20Metaverse-Fashion-cover/20Metaverse-Fashion-cover-moth.jpg" width="151"/>
+      <media:credit>Sucuk und Bratwurst</media:credit>
+    </item>
+    <item>
+      <title>Why Microsoft Wants Activision</title>
+      <link>https://www.nytimes.com/2022/01/19/technology/microsoft-activision-games.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/technology/microsoft-activision-games.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/technology/microsoft-activision-games.html" rel="standout"/>
+      <description>Activision has a lot of popular games that fit into Microsoft’s plans to build a vast library of titles that can be played on all sorts of devices. The metaverse can wait.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 00:04:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Activision Blizzard Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Xbox (Video Game System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Corporation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/business/19future-gaming1/19future-gaming1-moth.jpg" width="151"/>
+      <media:credit>Patrick T. Fallon/Bloomberg</media:credit>
+      <media:description>When Microsoft announced its plans to buy Activision, the maker of Call of Duty, it said the move would give it the “building blocks for the metaverse.” It’s simpler than that.</media:description>
+    </item>
+    <item>
+      <title>Why Free Covid Tests Went Viral</title>
+      <link>https://www.nytimes.com/2022/01/20/technology/free-covid-tests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/20/technology/free-covid-tests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/20/technology/free-covid-tests.html" rel="standout"/>
+      <description>It says something about human nature.</description>
+      <dc:creator>Shira Ovide</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 18:12:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/20/business/20OnTech-viral-NL/20OnTech-viral-NL-moth.jpg" width="151"/>
+      <media:credit>Gabriel Alcala</media:credit>
+    </item>
+    <item>
+      <title>In Sewage, Clues to Omicron’s Surge</title>
+      <link>https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html" rel="standout"/>
+      <description>Tracking the virus in wastewater is helping some cities and hospitals respond to the most recent wave of the coronavirus, but a more coordinated national effort is needed, experts say.</description>
+      <dc:creator>Emily Anthes and Sabrina Imbler</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 22:37:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/science/19virus-wastewater3/19virus-wastewater3-moth.jpg" width="151"/>
+      <media:credit>Sebastien Nogier/EPA, via Shutterstock</media:credit>
+      <media:description>Workers in Monaco took sewage water samples to detect coronavirus concentration in the area in 2021.</media:description>
+    </item>
+    <item>
+      <title>How 5G Clashed With an Aviation Device Invented in the 1920s</title>
+      <link>https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html" rel="standout"/>
+      <description>The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries.</description>
+      <dc:creator>Stephen Gandel</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 18:06:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">5G (Wireless Communications)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AT&amp;T Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Verizon Communications Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/19/business/19altimeter-01alt/19altimeter-01alt-moth.jpg" width="151"/>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>Kennedy International Airport on Wednesday. Airlines warned this week that potential interference from 5G technology could cause a crucial device on planes to malfunction.</media:description>
+    </item>
+    <item>
+      <title>Facebook’s Unglamorous Mistakes</title>
+      <link>https://www.nytimes.com/2022/01/19/technology/facebook-moderation-mistakes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/technology/facebook-moderation-mistakes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/technology/facebook-moderation-mistakes.html" rel="standout"/>
+      <description>Facebook’s little mistakes have big consequences, too. (But only for us.)</description>
+      <dc:creator>Shira Ovide</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 18:11:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>Tech Start-Ups Reach a New Peak of Froth</title>
+      <link>https://www.nytimes.com/2022/01/19/technology/tech-startup-funding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/19/technology/tech-startup-funding.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/19/technology/tech-startup-funding.html" rel="standout"/>
+      <description>There’s more money and more bubbly behavior. Investors insist it’s rational.</description>
+      <dc:creator>Erin Griffith</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 15:41:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/15/business/15startups/15startups-moth.jpg" width="151"/>
+      <media:credit>Joe Melhuish</media:credit>
+    </item>
+    <item>
+      <title>Gamers Greet Microsoft’s Activision Deal With Guarded Optimism</title>
+      <link>https://www.nytimes.com/2022/01/18/technology/video-games-activision-microsoft.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/technology/video-games-activision-microsoft.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/technology/video-games-activision-microsoft.html" rel="standout"/>
+      <description>Some players, unhappy with Activision in recent years, said the Microsoft deal could reverse a decline in quality.</description>
+      <dc:creator>Erin Woo and Kellen Browning</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 00:54:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Activision Blizzard Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Xbox (Video Game System)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/18gamer-voices1/18gamer-voices1-moth.jpg" width="151"/>
+      <media:credit>Bruce Kluckhohn/USA Today Sports, via Reuters</media:credit>
+      <media:description>Players at a Call of Duty competition in Minneapolis last year.</media:description>
+    </item>
+    <item>
+      <title>Regulators aim to rewrite rules for big mergers.</title>
+      <link>https://www.nytimes.com/2022/01/18/technology/regulators-aim-to-rewrite-rules-for-big-mergers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/technology/regulators-aim-to-rewrite-rules-for-big-mergers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/technology/regulators-aim-to-rewrite-rules-for-big-mergers.html" rel="standout"/>
+      <description>U.S. antitrust leaders said they would focus on the tech industry’s free services as they strengthened the review process for corporate consolidation.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 19:59:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Lina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kanter, Jonathan S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Activision Blizzard Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/18economy-briefing-mergers/merlin_200523444_6f55e671-511e-406b-aff5-e4e0466307b9-moth.jpg" width="151"/>
+      <media:credit>Pool photo by Graeme Jennings</media:credit>
+      <media:description>“This inquiry launched by the F.T.C. and D.O.J. is designed to ensure that our merger guidelines accurately reflect modern market realities,” said Lina Khan, head of the Federal Trade Commission.</media:description>
+    </item>
+    <item>
+      <title>Jack Dorsey and Marc Andreessen's Crypto Feud Puts Web3 at Risk</title>
+      <link>https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html" rel="standout"/>
+      <description>A dispute over “web3” in the cryptocurrency industry was publicly exposed in a Twitter spat between Jack Dorsey and Marc Andreessen. Here’s what it’s all about.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 19:13:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andreessen, Marc L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dorsey, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blockchain (Technology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/18cryptofeudCombo/18cryptofeudCombo-moth.jpg" width="151"/>
+      <media:credit>Marco Bello/Agence France-Presse — Getty Images; David Paul Morris/Bloomberg</media:credit>
+      <media:description>The tech entrepreneurs Jack Dorsey, left, and Marc Andreessen are feuding over web3, a vision for a version of the internet powered by the same networks cryptocurrencies are built on.</media:description>
+    </item>
+    <item>
+      <title>With Activision, Microsoft Bets on the Future</title>
+      <link>https://www.nytimes.com/2022/01/18/technology/microsoft-activision-metaverse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/technology/microsoft-activision-metaverse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/technology/microsoft-activision-metaverse.html" rel="standout"/>
+      <description>Video games have become weapons that tech titans wield to try to shape our future.</description>
+      <dc:creator>Shira Ovide</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 20:33:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Activision Blizzard Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/18OnTech-Microsoft-NL/18OnTech-Microsoft-NL-moth.png" width="151"/>
+      <media:credit>Erik Carter</media:credit>
+    </item>
+    <item>
+      <title>What’s All the Hype About the Metaverse?</title>
+      <link>https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html" rel="standout"/>
+      <description>Microsoft cited the metaverse as a reason for buying Activision Blizzard for $68.7 billion. Let’s break down what that really means.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 19:32:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Activision Blizzard Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metaverse (Internet)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/18/business/18metaverse/18metaverse-moth.jpg" width="151"/>
+      <media:credit>Jeenah Moon for The New York Times</media:credit>
+      <media:description>An attendee at VR World NYC in November. The metaverse is the convergence of two ideas that have been around for many years: virtual reality and a digital second life.</media:description>
+    </item>
+    <item>
+      <title>Building Apps Help Make the Office Return a Touch-Free Experience</title>
+      <link>https://www.nytimes.com/2022/01/18/business/building-apps-office-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/business/building-apps-office-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/business/building-apps-office-return.html" rel="standout"/>
+      <description>Mobile apps for office buildings have become popular as employers try to entice staff back on site by making work-related tasks convenient and safe.</description>
+      <dc:creator>Julie Weed</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 14:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Return to Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transwestern Development Co</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/19/business/00rto-apps01/00rto-apps01-moth.jpg" width="151"/>
+      <media:credit>Lyndon French for The New York Times</media:credit>
+      <media:description>Myrna Coronado-Brookover, an executive at Transwestern, helped oversee the introduction of its building management app.</media:description>
+    </item>
+    <item>
+      <title>China’s Olympics App for Athletes Has Security Flaws, Study Says</title>
+      <link>https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html" rel="standout"/>
+      <description>Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities.</description>
+      <dc:creator>Paul Mozur and Cade Metz</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 13:58:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizen Lab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/15/multimedia/15Olympics-app-01/15Olympics-app-01-moth.jpg" width="151"/>
+      <media:credit>Roman Pilipey/EPA, via Shutterstock</media:credit>
+      <media:description>A locker room at the Thaiwoo Ski Resort, a host for the 2022 Beijing Winter Olympics, in Zhangjiakou in Hebei Province, China.</media:description>
+    </item>
+    <item>
+      <title>Can Anyone Satisfy Amazon’s Craving for Electric Vans?</title>
+      <link>https://www.nytimes.com/2022/01/18/technology/amazon-electric-vans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/18/technology/amazon-electric-vans.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/18/technology/amazon-electric-vans.html" rel="standout"/>
+      <description>The company has big plans to turn its delivery fleet green. But very few of the vehicles are made right now.</description>
+      <dc:creator>Karen Weise and Neal E. Boudette</dc:creator>
+      <pubDate>Tue, 18 Jan 2022 21:55:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rivian Automotive LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fedex Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/business/00amazon-van-video1-still/00amazon-van-video1-still-moth.jpg" width="151"/>
+      <media:credit>Roger Kisby for The New York Times</media:credit>
+      <media:description>Amazon delivery trucks line up to enter the Amazon DAX3 delivery station in Chatsworth, Calif.</media:description>
+    </item>
+    <item>
+      <title>Microsoft Warns of Cyber Attack on Ukrainian Computer Networks</title>
+      <link>https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/16/us/politics/microsoft-ukraine-cyberattack.html" rel="standout"/>
+      <description>The malware was revealed as Russian troops remained massed at the Ukrainian border, and after Ukrainian government agencies had their websites defaced.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Mon, 17 Jan 2022 02:18:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/multimedia/16dc-Ukraine-cyber-attack/16dc-Ukraine-cyber-attack-moth.jpg" width="151"/>
+      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
+      <media:description>The Ukrainian Ministry of Foreign Affairs in Kyiv. The malicious code appears to have been deployed around the time that Russia said that talks with the United States and NATO had essentially stalled.</media:description>
+    </item>
+    <item>
+      <title>Cryptocurrency Enthusiasts Meet Their Match: Angry Gamers</title>
+      <link>https://www.nytimes.com/2022/01/15/technology/cryptocurrency-nft-gamers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/15/technology/cryptocurrency-nft-gamers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/15/technology/cryptocurrency-nft-gamers.html" rel="standout"/>
+      <description>Game publishers are offering NFTs, but skeptical gamers smell a moneymaking scheme and are fighting back.</description>
+      <dc:creator>Mike Isaac and Kellen Browning</dc:creator>
+      <pubDate>Wed, 19 Jan 2022 17:07:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonfungible Tokens (NFTs)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blockchain (Technology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Xbox (Video Game System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Square Enix</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ubisoft Entertainment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sega Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zynga Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/business/15NFTGAMERS/15NFTGAMERS-moth.jpg" width="151"/>
+      <media:credit>Stacy Kranitz for The New York Times</media:credit>
+      <media:description>“I just hate that they keep finding ways to nickel-and-dime us in whatever way they can,” said Matt Kee, a gamer, about a game studio’s push into NFTs.</media:description>
+    </item>
+    <item>
+      <title>Is Interning for an Influencer Worth It?</title>
+      <link>https://www.nytimes.com/2022/01/15/style/influencer-internships-social-media-content-creation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/15/style/influencer-internships-social-media-content-creation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/15/style/influencer-internships-social-media-content-creation.html" rel="standout"/>
+      <description>Young fans are messaging social media creators and entrepreneurs seeking experience. But the terms of the arrangements can vary widely.</description>
+      <dc:creator>Jennifer Miller</dc:creator>
+      <pubDate>Sat, 15 Jan 2022 10:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Internships</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/16/fashion/20INFLUENCER-INTERNS1/merlin_200218821_b75351da-8098-4100-94de-0348d5797cea-moth.jpg" width="151"/>
+      <media:credit>Jessica Chou for The New York Times</media:credit>
+      <media:description>Marwa Atik, left, hired her former intern, Khadija Sillah, to work for her company, Vela Scarves.</media:description>
+    </item>
+    <item>
+      <title>States Appeal Decision to Throw Out Their Facebook Antitrust Case</title>
+      <link>https://www.nytimes.com/2022/01/14/technology/facebook-antitrust-case-appeal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/technology/facebook-antitrust-case-appeal.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/technology/facebook-antitrust-case-appeal.html" rel="standout"/>
+      <description>The states’ central claim is that Facebook acquired competitors — particularly Instagram in 2012 and WhatsApp in 2014 — in a predatory manner, by crushing competition.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Sat, 15 Jan 2022 00:05:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boasberg, James E</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/28/business/28facebook-park-LNNQ/28facebook-park-moth.jpg" width="151"/>
+      <media:credit>Justin Sullivan/Getty Images
+</media:credit>
+      <media:description>Facebook’s new logo was unveiled in November.</media:description>
+    </item>
+    <item>
+      <title>For Coronavirus Testing, the Nose May Not Always Be Best</title>
+      <link>https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/health/saliva-testing-coronavirus-omicron.html" rel="standout"/>
+      <description>As Omicron spreads, some experts are calling for a switch to saliva-based tests, which may detect infections days earlier than nasal swabs do.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Thu, 20 Jan 2022 18:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nose</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mouth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Throat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/science/14virus-saliva1/14virus-saliva1-moth.jpg" width="151"/>
+      <media:credit>Jenn Ackerman for The New York Times</media:credit>
+      <media:description>A saliva Covid-19 testing site at the University of Minnesota Field House in Minneapolis.</media:description>
+    </item>
+    <item>
+      <title>Google CEO Sundar Pichai Signed Off on Deal at Center of Antitrust Case, States Say</title>
+      <link>https://www.nytimes.com/2022/01/14/technology/sundar-pichai-google-facebook-antitrust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/01/14/technology/sundar-pichai-google-facebook-antitrust.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/01/14/technology/sundar-pichai-google-facebook-antitrust.html" rel="standout"/>
+      <description>The states argue that Google reached a deal with Facebook to have the social network join its effort in an effort to “kill” a competing ad network.</description>
+      <dc:creator>David McCabe</dc:creator>
+      <pubDate>Fri, 14 Jan 2022 19:13:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/14/multimedia/14google/14google-moth.jpg" width="151"/>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>In a newly unredacted portion of a lawsuit, the states said Sundar Pichai, Google’s chief executive since 2015, “also personally signed off on the terms of the deal.”</media:description>
+    </item>
+  </channel>
+</rss>
