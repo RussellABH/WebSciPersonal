@@ -1,0 +1,16 @@
+/* Very little css here because most of it was done using bootstrap classes */
+#mainContainer {
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  border-radius: 2em;
+}
+
+.col {
+  background-color: blue;
+}
+
+#weatherImage {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
