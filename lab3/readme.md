@@ -49,4 +49,3 @@ References
 * https://steamcommunity.com/dev
 * https://developer.valvesoftware.com/wiki/Steam_Web_API
 * https://stackoverflow.com/questions/847185/convert-a-unix-timestamp-to-time-in-javascript
-* 
