@@ -26,12 +26,24 @@
 </head>
 
 <body>
-  <div class="input-group mb-3">
-    <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username"
-      aria-describedby="basic-addon2" id="usernameInput">
-    <div class="input-group-append">
-      <button class="btn btn-outline-secondary" type="button" id="usernameButton" onclick="void(0);">Button</button>
+  <div id="bodyDiv">
+    <div id="alertDiv"></div>
+    <h1 class="text-center mb-3" id="title"><b>Profile Information</b></h1>
+    <div class="input-group mb-3 mx-auto" id="inputHolder">
+      <input type="text" class="form-control" placeholder="Vanity Url Name" aria-label="Vanity Url Name"
+        aria-describedby="basic-addon2" id="usernameInput">
+      <div class="input-group-append">
+        <button class="btn btn-outline-secondary" type="button" id="usernameButton" onclick="void(0);">Search</button>
+      </div>
     </div>
+    <ul class="list-group bg-transparent text-center">
+      <li class="list-group-item bg-transparent p-0 border-0"><img id="avatar" src=""></li>
+      <li class="list-group-item bg-transparent p-0 border-0"><h2 id="displayName"></h2></li>
+      <li class="list-group-item bg-transparent p-0 border-0"><h4 id="status"></h4></li>
+      <li class="list-group-item bg-transparent p-0 border-0"><h4 id="id"></h4></li>
+      <li class="list-group-item bg-transparent p-0 border-0"><h4 id="gameCount"></h4></li>
+      <li class="list-group-item bg-transparent p-0 border-0"><h4 id="lastOnline"></h4></li>
+    </ul>
   </div>
 </body>
 
