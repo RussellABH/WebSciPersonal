@@ -1,0 +1,40 @@
+#bodyDiv {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-color: #1fadff;
+  background-image: linear-gradient(135deg, #1fadff 0%, #339b8f 100%);
+}
+
+#inputHolder {
+  width: 50%;
+}
+
+#title {
+  color: #0f3f64;
+}
+
+#temperatureButton {
+  background-color: rgb(108, 106, 248);
+  color: black;
+}
+
+#title {
+  margin-top: 20vh;
+}
+
+#windButton {
+  margin: 0;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 800px) {
+
+  #inputHolder {
+    width: 100%;
+  }
+}
