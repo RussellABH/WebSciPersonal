@@ -10,7 +10,7 @@ export class HttpService {
 
   constructor(private httpClient: HttpClient) { }
 
-  public sendGetRequest() {
-    return this.httpClient.get(this.apiserver);
+  public sendGetRequest(url: string) {
+    return this.httpClient.get(url);
   }
 }

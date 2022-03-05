@@ -1,17 +1,15 @@
 function alert(message) {
-  divForAlert = $("#alertDiv")
-  var wrapper = document.createElement('div');
-  wrapper.innerHTML = '<div class="alert alert-danger alert-dismissible fixed-top" role="alert">' + message + '</div>';
-  divForAlert.html(wrapper);
+  divForAlert = document.getElementById("alertDiv");
+  divForAlert.innerHTML = '<div class="alert alert-danger alert-dismissible fixed-top" role="alert">' + message + '</div>';
 }
 
 function search() {
   let username = $("#usernameInput").val();
   console.log(username);
-  $("#alertDiv").html(''); // Gets rid of alert if one was there
+  document.getElementById("alertDiv").innerHTML = ''; 
   $.ajax({
     type: "GET",
-    url: "http://localhost:3000/profile/" + username,
+    url: "http://localhost:3001/profile/" + username,
     dataType: "json",
     success: function (data) {
       if (data.exists == 1) {
@@ -27,9 +25,9 @@ function search() {
 }
 
 function fillData(data) {
-  $("#avatar").attr("src", data.avatarmedium);
+  document.getElementById("avatar").setAttribute("src", data.avatarmedium);
 
-  $("#displayName").html(data.personaname);
+  document.getElementById("displayName").innerHTML = data.personaname;
 
   let allStatus = {
     0 : "offline",
@@ -40,14 +38,14 @@ function fillData(data) {
     5 : "looking to trade",
     6 : "looking to play"
   };
-  $("#status").html("Currently " + allStatus[data.personastate])
+  document.getElementById("status").innerHTML = "Currently " + allStatus[data.personastate];
 
-  $("#id").html("Steam ID: " + data.steamid);
+  document.getElementById("id").innerHTML = "Steam ID: " + data.steamid;
 
-  $("#gameCount").html("Currently has " + data.game_count + " games")
+  document.getElementById("gameCount").innerHTML = "Currently has " + data.game_count + " games";
 
   var date = new Date(data.lastlogoff * 1000);
-  $("#lastOnline").html("Last online on " + date.toLocaleTimeString('en-US'));
+  document.getElementById("lastOnline").innerHTML = "Last online on " + date.toLocaleTimeString('en-US');
 }
 
 $("#usernameButton").click((e) => { 
