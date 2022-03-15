@@ -5,6 +5,32 @@ const axios = require('axios');
 const path = require('path');
 
 
+// MongoDB stuff
+// note that I have the frontend and backend in two different node projects. Why not just have it all in one and 
+//  put frontend in the main part of it
+
+
+// good docs - https://docs.mongodb.com/drivers/node/current/usage-examples/findOne/
+const { MongoClient, ServerApiVersion } = require('mongodb');
+
+const uri = "mongodb+srv://admin:67Forbes@cluster0.x0eld.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+
+app.get('/mongo', async function (req, res) {
+  await client.connect();
+
+  const collection = client.db("inClass").collection("myCollection");
+
+  let query = { name: "Boston" };
+  let data = await collection.findOne(query);
+
+  res.send(data);
+
+  client.close();
+});
+
+// End of MongoDB stuff
+
 app.use(express.static(path.join(__dirname, '../frontend/lab4/dist/lab4')));
 
 console.log(__dirname);
