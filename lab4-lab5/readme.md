@@ -1,1 +1,0 @@
-To start, I started to look over the previous work I had done with mongoDB in class when we set up Atlas. That sent me down a whole weird issue with git and getting the files setup on my current computer (because I use a different computer when I'm at my dorm compared to my school one). 
