@@ -1,0 +1,12 @@
+#buttonHolder {
+  display: block;
+  text-align: center;
+}
+
+#output {
+  margin-top: 3px;
+  background-color: white;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  height: 350px;
+}
