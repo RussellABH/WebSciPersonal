@@ -7,8 +7,10 @@
     <div class="input-group-append">
       <app-ajax (sendDataEvent)="fillData($event)"></app-ajax>
     </div>
+    <button class="btn btn-outline-secondary" type="button" id="showButton" (click)="show()">Show</button>
+    <button class="btn btn-outline-secondary" type="button" id="hideButton" (click)="hide()">Hide</button>
   </div>
-  <app-mongo-interface></app-mongo-interface>
+  <app-mongo-interface id="databaseStuff"></app-mongo-interface>
   <ul class="list-group bg-transparent text-center">
     <li class="list-group-item bg-transparent p-0 border-0"><img id="avatar" src=""></li>
     <li class="list-group-item bg-transparent p-0 border-0"><h2 id="displayName"></h2></li>

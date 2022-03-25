@@ -45,4 +45,14 @@ export class AppComponent {
     var date = new Date(data.lastlogoff * 1000);
     document.getElementById("lastOnline")!.innerHTML = "Last online on " + date.toLocaleTimeString('en-US');
   }
+
+  show() {
+    document.getElementById("databaseStuff")!.style.display = "block";
+    document.getElementById("hideButton")!.style.display = "block";
+  }
+
+  hide() {
+    document.getElementById("databaseStuff")!.style.display = "none";
+    document.getElementById("hideButton")!.style.display = "none";
+  }
 }
