@@ -4,7 +4,7 @@ Next, I uploaded the data to MongoDB using MongoDBCompass. Because this will eve
 
 It was around this time that I was having a lot of trouble with git because the starter code that you gave was already tracked by git, so it wouldn't commit any changes I made to the angular project. This was solved by manually removing the .git folder and running a command I found at https://stackoverflow.com/questions/47403358/fatal-in-unpopulated-submodule.
 
-Next, I had to get the MongoDB data into my components. First, I set up the API endpoint to send the data without too much issue.
+Next, I had to get the MongoDB data into my components. To do this, I set up the API endpoint and then used the example d3.json call to grab the data. Next, I wanted to actually use the data. I was having a lot of trouble with this. I wanted to use a beeswarm from this example: https://observablehq.com/@d3/beeswarm, but it was written in JS and TW typing and requirements would always error it out so it couldn't be run no matter how I tried to make it compatable, and setting strict to false in the TS config file only barely helped. I also tried exporting the JS and then use it in TS but that also didn't work. Next, I tried to use C3, a library that provides a few D3 graphs. This took a little bit to get working in angular but I was able to get a chart displayed eventually. However, it was really messed up (black areas all over the graph). To fix this I had to add the C3 css to my angular styles. Next I looked through the C3 docs and built an array from my json that would make a graph of Critic Rating vs. Game Sales. After a little bit of tinkering, I got it working. Unfortunately I don't believe there's an easy way to get the name of the game on the graph. I can change the title but the index it gives is not correct. Next I made a bar chart of the top 5 games. 
 
 References:
 * https://www.kaggle.com/
@@ -16,7 +16,11 @@ References:
 * https://note.nkmk.me/en/python-type-isinstance/
 * https://realpython.com/iterate-through-dictionary-python/#iterating-through-items
 * https://stackoverflow.com/questions/47403358/fatal-in-unpopulated-submodule
-
+* https://www.mongodb.com/docs/drivers/node/current/usage-examples/find/
+* https://github.com/angular/angular-cli/issues/19948
+* https://groups.google.com/g/c3js/c/fT-yUSs1ros/m/zfGZ4EbdAAAJ
+* https://stackoverflow.com/questions/48521971/mime-type-error-when-adding-a-css-file-to-angular
+* https://c3js.org/gettingstarted.html
 
 
 The README that was already here:

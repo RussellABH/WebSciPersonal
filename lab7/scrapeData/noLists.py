@@ -34,11 +34,11 @@ for game in oldFileJson:
         numWithNone += 1
     
     # Combine sales metrics and remove those without any
-    if game["total_sales"].strip() != "N/A" or game["total_shipped"].strip() != "N/A":
+    if (game["total_sales"].strip() != "N/A" or game["total_shipped"].strip() != "N/A") and game["release_date"].strip() != "N/A":
         if game["total_sales"].strip() != "N/A":
-            game["total_sold"] = game["total_sales"]
+            game["total_sold"] = game["total_sales"][:-1]
         elif game["total_shipped"].strip() != "N/A":
-            game["total_sold"] = game["total_shipped"]
+            game["total_sold"] = game["total_shipped"][:-1]
 
         json.dump(game, newFile)
         newFile.write(", ")
