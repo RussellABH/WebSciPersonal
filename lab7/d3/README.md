@@ -2,8 +2,9 @@ To start, I had to find a bunch of relevant data because I did the hackathon and
 
 Next, I uploaded the data to MongoDB using MongoDBCompass. Because this will eventually be a part of my steam profile site, I put it as a collection under that database. There were no problems here. During this I also noticed that there were two games that didn't have a release date so I just manually removed those. 
 
-NOTE THAT TWO DOCUMENTS DONT HAVE RELEASE DATES SO JUST DELETE THOSE IF IT'S A PROBLEM
+It was around this time that I was having a lot of trouble with git because the starter code that you gave was already tracked by git, so it wouldn't commit any changes I made to the angular project. This was solved by manually removing the .git folder and running a command I found at https://stackoverflow.com/questions/47403358/fatal-in-unpopulated-submodule.
 
+Next, I had to get the MongoDB data into my components. First, I set up the API endpoint to send the data without too much issue.
 
 References:
 * https://www.kaggle.com/
@@ -14,7 +15,8 @@ References:
 * https://www.geeksforgeeks.org/writing-to-file-in-python/#writing
 * https://note.nkmk.me/en/python-type-isinstance/
 * https://realpython.com/iterate-through-dictionary-python/#iterating-through-items
-* 
+* https://stackoverflow.com/questions/47403358/fatal-in-unpopulated-submodule
+
 
 
 The README that was already here:
