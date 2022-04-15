@@ -25,9 +25,13 @@ export class MongoInterfaceComponent implements OnInit {
       key = '';
     }
 
-    this.httpClient.get('/db/' + key).subscribe((data) => {
-      (<HTMLInputElement>document.getElementById("output")!).innerHTML = JSON.stringify(data);
-    });
+    if (key == '') {
+      (<HTMLInputElement>document.getElementById("output")!).innerHTML = "Must GET on /db, cannot GET all documents.";
+    } else {
+      this.httpClient.get('/db/' + key).subscribe((data) => {
+        (<HTMLInputElement>document.getElementById("output")!).innerHTML = JSON.stringify(data);
+      });
+    }
   }
 
   postRequest() {
@@ -59,7 +63,7 @@ export class MongoInterfaceComponent implements OnInit {
     if (key == '0') {
       key = '';
       didAll = 1;
-    } 
+    }
     let body = (<HTMLInputElement>document.getElementById("bodyInput")!).value;
     let theJson = null;
     try {

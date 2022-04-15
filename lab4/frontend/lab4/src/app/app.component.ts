@@ -46,15 +46,28 @@ export class AppComponent {
     document.getElementById("lastOnline")!.innerHTML = "Last online on " + date.toLocaleTimeString('en-US');
   }
 
-  show() {
+  showDatabase() {
     document.getElementById("databaseStuff")!.style.display = "block";
     document.getElementById("hideButton")!.style.display = "block";
     document.getElementById("showButton")!.style.display = "none";
   }
 
-  hide() {
+  hideDatabase() {
     document.getElementById("databaseStuff")!.style.display = "none";
     document.getElementById("hideButton")!.style.display = "none";
     document.getElementById("showButton")!.style.display = "block";
+  }
+
+  showGraphs() {
+    document.getElementById("graphs")!.style.display = "block";
+    document.getElementById("hideGraphs")!.style.display = "block";
+    document.getElementById("showGraphs")!.style.display = "none";
+  }
+
+  hideGraphs() {
+    console.log("hideGraphs");
+    document.getElementById("graphs")!.style.display = "none";
+    document.getElementById("hideGraphs")!.style.display = "none";
+    document.getElementById("showGraphs")!.style.display = "block";
   }
 }

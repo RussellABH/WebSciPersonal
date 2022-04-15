@@ -7,8 +7,14 @@
     <div class="input-group-append">
       <app-ajax (sendDataEvent)="fillData($event)"></app-ajax>
     </div>
-    <button class="btn btn-outline-secondary toggleButton" type="button" id="showButton" (click)="show()">Show Database</button>
-    <button class="btn btn-outline-secondary toggleButton" type="button" id="hideButton" (click)="hide()">Hide Database</button>
+    <button class="btn btn-outline-secondary toggleButton" type="button" id="showButton" (click)="showDatabase()">Show Database</button>
+    <button class="btn btn-outline-secondary toggleButton" type="button" id="hideButton" (click)="hideDatabase()">Hide Database</button>
+    <button class="btn btn-outline-secondary toggleButton" type="button" id="showGraphs" (click)="showGraphs()">Show Graphs</button>
+    <button class="btn btn-outline-secondary toggleButton" type="button" id="hideGraphs" (click)="hideGraphs()">Hide Graphs</button>
+  </div>
+  <div id="graphs">
+    <app-my-bar></app-my-bar>
+    <app-my-scatter></app-my-scatter>
   </div>
   <app-mongo-interface id="databaseStuff"></app-mongo-interface>
   <ul class="list-group bg-transparent text-center">
