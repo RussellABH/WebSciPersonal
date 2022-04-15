@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 const axios = require('axios');
 const path = require('path');
-const { MongoClient, ServerApiVersion } = require('mongodb');
+const { MongoClient, ServerApiVersion, ConnectionClosedEvent } = require('mongodb');
 
 
 app.use(express.json());
@@ -24,31 +24,22 @@ app.get('/db/:docNum', async function (req, res) {
   let query = { key: docNum};
   let data = await collection.findOne(query);
 
+  console.log("Get on key " + docNum + ": " + data);
   res.send(data);
 
   client.close();
 });
 
 app.get('/db', async function (req, res) {
-  await client.connect();
-  const collection = client.db("SteamProfile").collection("Profiles");
-
-  let query = { exists: 1};
-  let data = await collection.find(query);
-
-  let toReturn = [];
-  await data.forEach((profile) => {
-    toReturn = toReturn.concat(profile);
-  });
-
-  res.send(toReturn);
-
-  client.close();
+  res.status(405);
+  console.log("Attempted get all documents");
+  res.send("Must GET on a key, getting all documents is currently not allowed.")
 });
 
 // POST
 app.post('/db/:docNum', (req, res) => {
   res.status(405);
+  console.log("Attempted post on a document");
   res.send("Must POST on /db, cannot POST on a specific document.")
 });
 
@@ -88,7 +79,7 @@ app.put('/db/:docNum', async function (req, res) {
 
   await collection.updateOne(query, updateDoc);
 
-  console.log("Done");
+  console.log("Document " + docNum + " updated.");
 
   res.status(200);
   res.send();
@@ -100,17 +91,17 @@ app.put('/db', async function (req, res) {
   await client.connect();
   const collection = client.db("SteamProfile").collection("Profiles");
 
-  console.log("Modifying all documents");
-
+  
   let query = { exists: 1};
-
+  
   const updateDoc = {
     $set: req.body,
   };
-
+  
   const result = await collection.updateMany(query, updateDoc);
   console.log(`Updated ${result.modifiedCount} documents`);
-
+  
+  console.log("Modified all documents");
   res.status(200);
   res.send();
 
@@ -142,16 +133,18 @@ app.delete('/db/:docNum', async function (req, res) {
 });
 
 app.delete('/db', async function (req, res) {
-  await client.connect();
-  const collection = client.db("SteamProfile").collection("Profiles");
+  // await client.connect();
+  // const collection = client.db("SteamProfile").collection("Profiles");
 
-  console.log("DELETING ALL DOCUMENTS");
+  // console.log("DELETING ALL DOCUMENTS");
 
-  const result = await collection.deleteMany();
+  // const result = await collection.deleteMany();
 
-  console.log("Deleted " + result.deletedCount + " documents");
+  // console.log("Deleted " + result.deletedCount + " documents");
 
-  res.status(200);
+  console.log("Attempt to delete all documents");
+
+  res.status(403);
   res.send();
 
   client.close();

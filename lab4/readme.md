@@ -1,4 +1,12 @@
-LAB 5
+LAB 8 README:
+
+To start, I brought up my old lab 5 application because it had been a while. I was happy to remember that I actually intergrated the MongoDB stats pretty well. I changed the button's css slightly and fixed the JS. I also removed the function of being able to delete the entire database because I don't think that should be a feature that a user has (It's worth noting that I didn't remove deletion on a specific document, so theoretically somebody can still do that but at least it takes more effort now). 
+
+
+
+
+
+LAB 5 README:
 
 To start, I started to look over the previous work I had done with mongoDB in class when we set up Atlas. That sent me down a whole weird issue with git and getting the files setup on my current computer (because I use a different computer when I'm at my dorm compared to my school one). I don't know why it took so long to fix. After that, I started to set up the files on the database. I made a new databse and a new collection, and I realized that I probably want to auto increment. I ended up getting really stuck on setting a unique id for each element aswell as bulk uploading them. Eventually I just asked my friend for help and he was able to help me with a JS script to make an ID aswell as telling me how to bulk upload. In the process of this I had to deal with another really bad angular issue. For whatever reason it was giving me weird errors when I tried to build and the only solution I found was to literally undo all of the work that I did up to this point and just restart, which also required sticking with this folder being named lab4, I hope that's okay. So that was great. Anyway, after that fortunately I was able to upload the docs to MongoDB without much issue.
 

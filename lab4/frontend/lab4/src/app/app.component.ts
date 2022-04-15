@@ -49,10 +49,12 @@ export class AppComponent {
   show() {
     document.getElementById("databaseStuff")!.style.display = "block";
     document.getElementById("hideButton")!.style.display = "block";
+    document.getElementById("showButton")!.style.display = "none";
   }
 
   hide() {
     document.getElementById("databaseStuff")!.style.display = "none";
     document.getElementById("hideButton")!.style.display = "none";
+    document.getElementById("showButton")!.style.display = "block";
   }
 }

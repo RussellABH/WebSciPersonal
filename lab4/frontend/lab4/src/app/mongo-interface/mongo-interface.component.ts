@@ -32,15 +32,19 @@ export class MongoInterfaceComponent implements OnInit {
 
   postRequest() {
     let key = (<HTMLInputElement>document.getElementById("keyInput")!).value;
-    if (key != '0') {
+    if (key != '') {
       (<HTMLInputElement>document.getElementById("output")!).innerHTML = "Must POST on /db, cannot POST on a specific document.";
     } else {
       let body = (<HTMLInputElement>document.getElementById("bodyInput")!).value;
+      console.log('body');
+      console.log(body);
       let theJson = null;
       try {
         theJson = JSON.parse(body);
+        console.log(theJson);
       } catch (error) {
         (<HTMLInputElement>document.getElementById("output")!).innerHTML = "Please make sure that the body is exact JSON for POST and PUT.";
+        console.log("Please make sure that the body is exact JSON for POST and PUT.");
         return;
       }
       this.httpClient.post('/db', theJson).subscribe((data) => {

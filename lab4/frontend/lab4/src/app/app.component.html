@@ -3,21 +3,31 @@
   <h1 class="text-center mb-3" id="title"><b>Profile Information</b></h1>
   <div class="input-group mb-3 mx-auto" id="inputHolder">
     <input type="text" class="form-control" placeholder="Vanity Url Name" aria-label="Vanity Url Name"
-    aria-describedby="basic-addon2" id="usernameInput">
+      aria-describedby="basic-addon2" id="usernameInput">
     <div class="input-group-append">
       <app-ajax (sendDataEvent)="fillData($event)"></app-ajax>
     </div>
-    <button class="btn btn-outline-secondary" type="button" id="showButton" (click)="show()">Show</button>
-    <button class="btn btn-outline-secondary" type="button" id="hideButton" (click)="hide()">Hide</button>
+    <button class="btn btn-outline-secondary toggleButton" type="button" id="showButton" (click)="show()">Show Database</button>
+    <button class="btn btn-outline-secondary toggleButton" type="button" id="hideButton" (click)="hide()">Hide Database</button>
   </div>
   <app-mongo-interface id="databaseStuff"></app-mongo-interface>
   <ul class="list-group bg-transparent text-center">
     <li class="list-group-item bg-transparent p-0 border-0"><img id="avatar" src=""></li>
-    <li class="list-group-item bg-transparent p-0 border-0"><h2 id="displayName"></h2></li>
-    <li class="list-group-item bg-transparent p-0 border-0"><h4 id="status"></h4></li>
-    <li class="list-group-item bg-transparent p-0 border-0"><h4 id="id"></h4></li>
-    <li class="list-group-item bg-transparent p-0 border-0"><h4 id="gameCount"></h4></li>
-    <li class="list-group-item bg-transparent p-0 border-0"><h4 id="lastOnline"></h4></li>
+    <li class="list-group-item bg-transparent p-0 border-0">
+      <h2 id="displayName"></h2>
+    </li>
+    <li class="list-group-item bg-transparent p-0 border-0">
+      <h4 id="status"></h4>
+    </li>
+    <li class="list-group-item bg-transparent p-0 border-0">
+      <h4 id="id"></h4>
+    </li>
+    <li class="list-group-item bg-transparent p-0 border-0">
+      <h4 id="gameCount"></h4>
+    </li>
+    <li class="list-group-item bg-transparent p-0 border-0">
+      <h4 id="lastOnline"></h4>
+    </li>
   </ul>
 </div>
 <app-ajax></app-ajax>
