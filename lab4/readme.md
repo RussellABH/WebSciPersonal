@@ -1,9 +1,6 @@
 LAB 8 README:
 
-To start, I brought up my old lab 5 application because it had been a while. I was happy to remember that I actually intergrated the MongoDB stats pretty well. I changed the button's css slightly and fixed the JS. I also removed the function of being able to delete the entire database because I don't think that should be a feature that a user has (It's worth noting that I didn't remove deletion on a specific document, so theoretically somebody can still do that but at least it takes more effort now). 
-
-
-
+To start, I brought up my old lab 5 application because it had been a while. I was happy to remember that I actually intergrated the MongoDB stats pretty well. I changed the button's css slightly and fixed the JS. I also removed the function of being able to delete the entire database because I don't think that should be a feature that a user has (It's worth noting that I didn't remove deletion on a specific document, so theoretically somebody can still do that but at least it takes more effort now). I had to make a few other small changes but generally my database stuff was already all set up. All I had to do was insert the graphs that I made in lab 7. It was a relatively painless process. After that I just changed a few other smaller details and it worked without too much issue. Just needed to add a basic way to show and hide it, which also wasn't too bad. Generally I'm pretty happy with the app!
 
 
 LAB 5 README:

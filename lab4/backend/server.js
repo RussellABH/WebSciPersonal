@@ -13,6 +13,20 @@ app.use(express.json());
 const uri = "mongodb+srv://admin:67Forbes@cluster0.x0eld.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 
+// Get all the games from my DB
+app.get('/games/', async function (req, res) {
+  await client.connect();
+  const collection = client.db("SteamProfile").collection("GameData");
+
+  console.log("Getting all games data");
+
+  let data = await collection.find().toArray();
+
+  res.send(data);
+
+  client.close();
+});
+
 // GET
 app.get('/db/:docNum', async function (req, res) {
   await client.connect();
