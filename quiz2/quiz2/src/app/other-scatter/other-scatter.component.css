@@ -1,0 +1,16 @@
+#chart2 {
+  width: 1000px;
+  background-color: whitesmoke;
+  margin: auto;
+}
+
+h2 {
+  color: white;
+  margin: auto;
+  width: 600px;
+  text-align: center;
+}
+
+#holder2 {
+  text-align: center;
+}

@@ -1,0 +1,5 @@
+<app-my-scatter (sendDataEvent1)="fillMyData($event)"></app-my-scatter>
+<div class="theHolder"><h3 id="myData" class="m-auto"></h3></div>
+<app-other-scatter (sendDataEvent2)="fillOtherData($event)"></app-other-scatter>
+<div class="theHolder"><h3 id="otherData" class="m-auto"></h3></div>
+<router-outlet></router-outlet>

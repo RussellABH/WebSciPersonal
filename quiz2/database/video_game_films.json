@@ -1,0 +1,380 @@
+[
+  {
+    "Title": "Super Mario Bros.",
+    "Release date": "1993-05-28",
+    "Worldwide box office": 38912465,
+    "Rotten Tomatoes": 24,
+    "Metacritic": 35,
+    "Distributor": "Buena Vista Pictures Distribution",
+    "Original game publisher": "Nintendo"
+  },
+  {
+    "Title": "Double Dragon",
+    "Release date": "1994-11-04",
+    "Worldwide box office": 4152699,
+    "Rotten Tomatoes": 13,
+    "Metacritic": "",
+    "Distributor": "Gramercy Pictures",
+    "Original game publisher": "Technōs Japan"
+  },
+  {
+    "Title": "Street Fighter",
+    "Release date": "1994-12-23",
+    "Worldwide box office": 99423521,
+    "Rotten Tomatoes": 13,
+    "Metacritic": 34,
+    "Distributor": "Universal Pictures",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Mortal Kombat",
+    "Release date": "1995-08-18",
+    "Worldwide box office": 124741822,
+    "Rotten Tomatoes": 44,
+    "Metacritic": 60,
+    "Distributor": "New Line Cinema",
+    "Original game publisher": "Midway"
+  },
+  {
+    "Title": "Mortal Kombat: Annihilation",
+    "Release date": "1997-11-21",
+    "Worldwide box office": 51376861,
+    "Rotten Tomatoes": 2,
+    "Metacritic": 11,
+    "Distributor": "New Line Cinema",
+    "Original game publisher": "Midway"
+  },
+  {
+    "Title": "Wing Commander",
+    "Release date": "1999-03-12",
+    "Worldwide box office": 11578059,
+    "Rotten Tomatoes": 10,
+    "Metacritic": 21,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Origin Systems"
+  },
+  {
+    "Title": "Lara Croft: Tomb Raider",
+    "Release date": "2001-06-15",
+    "Worldwide box office": 274703340,
+    "Rotten Tomatoes": 20,
+    "Metacritic": 33,
+    "Distributor": "Paramount Pictures",
+    "Original game publisher": "Eidos"
+  },
+  {
+    "Title": "Resident Evil",
+    "Release date": "2002-03-15",
+    "Worldwide box office": 102984862,
+    "Rotten Tomatoes": 36,
+    "Metacritic": 33,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Lara Croft: Tomb Raider – The Cradle of Life",
+    "Release date": "2003-07-25",
+    "Worldwide box office": 156505388,
+    "Rotten Tomatoes": 24,
+    "Metacritic": 43,
+    "Distributor": "Paramount Pictures",
+    "Original game publisher": "Eidos"
+  },
+  {
+    "Title": "House of the Dead",
+    "Release date": "2003-10-10",
+    "Worldwide box office": 13818181,
+    "Rotten Tomatoes": 3,
+    "Metacritic": 15,
+    "Distributor": "Artisan Entertainment",
+    "Original game publisher": "Sega Sammy"
+  },
+  {
+    "Title": "Resident Evil: Apocalypse",
+    "Release date": "2004-09-10",
+    "Worldwide box office": 129342769,
+    "Rotten Tomatoes": 19,
+    "Metacritic": 35,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Alone in the Dark",
+    "Release date": "2005-01-28",
+    "Worldwide box office": 10442808,
+    "Rotten Tomatoes": 1,
+    "Metacritic": 9,
+    "Distributor": "Lionsgate Films",
+    "Original game publisher": "Infogrames"
+  },
+  {
+    "Title": "Doom",
+    "Release date": "2005-10-21",
+    "Worldwide box office": 55987321,
+    "Rotten Tomatoes": 18,
+    "Metacritic": 34,
+    "Distributor": "Universal Pictures",
+    "Original game publisher": "id Software"
+  },
+  {
+    "Title": "BloodRayne",
+    "Release date": "2006-01-06",
+    "Worldwide box office": 3650275,
+    "Rotten Tomatoes": 4,
+    "Metacritic": 18,
+    "Distributor": "Boll KG Productions",
+    "Original game publisher": "Majesco Entertainment"
+  },
+  {
+    "Title": "Silent Hill",
+    "Release date": "2006-04-21",
+    "Worldwide box office": 97607453,
+    "Rotten Tomatoes": 32,
+    "Metacritic": 31,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Konami"
+  },
+  {
+    "Title": "DOA: Dead or Alive",
+    "Release date": "2006-09-07",
+    "Worldwide box office": 7516532,
+    "Rotten Tomatoes": 33,
+    "Metacritic": 38,
+    "Distributor": "Metro-Goldwyn-Mayer / Dimension Films",
+    "Original game publisher": "Tecmo"
+  },
+  {
+    "Title": "Resident Evil: Extinction",
+    "Release date": "2007-09-21",
+    "Worldwide box office": 148412065,
+    "Rotten Tomatoes": 25,
+    "Metacritic": 41,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Postal",
+    "Release date": "2007-10-18",
+    "Worldwide box office": 146741,
+    "Rotten Tomatoes": 9,
+    "Metacritic": 22,
+    "Distributor": "Vivendi Entertainment",
+    "Original game publisher": "Ripcord Games"
+  },
+  {
+    "Title": "Hitman",
+    "Release date": "2007-11-21",
+    "Worldwide box office": 101276318,
+    "Rotten Tomatoes": 16,
+    "Metacritic": 35,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Eidos"
+  },
+  {
+    "Title": "In the Name of the King: A Dungeon Siege Tale",
+    "Release date": "2008-01-11",
+    "Worldwide box office": 13097915,
+    "Rotten Tomatoes": 4,
+    "Metacritic": 15,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Microsoft Studios"
+  },
+  {
+    "Title": "Far Cry",
+    "Release date": "2008-10-02",
+    "Worldwide box office": 743634,
+    "Rotten Tomatoes": "",
+    "Metacritic": "",
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Ubisoft"
+  },
+  {
+    "Title": "Max Payne",
+    "Release date": "2008-10-17",
+    "Worldwide box office": 85416905,
+    "Rotten Tomatoes": 16,
+    "Metacritic": 31,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Rockstar Games"
+  },
+  {
+    "Title": "Street Fighter: The Legend of Chun-Li",
+    "Release date": "2009-02-27",
+    "Worldwide box office": 12764201,
+    "Rotten Tomatoes": 5,
+    "Metacritic": 17,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Tekken",
+    "Release date": "2010-03-20",
+    "Worldwide box office": 1697207,
+    "Rotten Tomatoes": 0,
+    "Metacritic": "",
+    "Distributor": "Warner Bros. Pictures",
+    "Original game publisher": "Bandai Namco Games"
+  },
+  {
+    "Title": "Prince of Persia: The Sands of Time",
+    "Release date": "2010-05-28",
+    "Worldwide box office": 336365676,
+    "Rotten Tomatoes": 37,
+    "Metacritic": 50,
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "Original game publisher": "Ubisoft"
+  },
+  {
+    "Title": "Resident Evil: Afterlife",
+    "Release date": "2010-09-10",
+    "Worldwide box office": 300228084,
+    "Rotten Tomatoes": 22,
+    "Metacritic": 37,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Resident Evil: Retribution",
+    "Release date": "2012-09-14",
+    "Worldwide box office": 240004424,
+    "Rotten Tomatoes": 28,
+    "Metacritic": 39,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Silent Hill: Revelation",
+    "Release date": "2012-10-26",
+    "Worldwide box office": 52302796,
+    "Rotten Tomatoes": 10,
+    "Metacritic": 16,
+    "Distributor": "Open Road Films",
+    "Original game publisher": "Konami"
+  },
+  {
+    "Title": "Need for Speed",
+    "Release date": "2014-03-14",
+    "Worldwide box office": 203277636,
+    "Rotten Tomatoes": 23,
+    "Metacritic": 39,
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "Original game publisher": "Electronic Arts"
+  },
+  {
+    "Title": "Hitman: Agent 47",
+    "Release date": "2015-08-21",
+    "Worldwide box office": 82347656,
+    "Rotten Tomatoes": 8,
+    "Metacritic": 28,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Square Enix"
+  },
+  {
+    "Title": "Warcraft",
+    "Release date": "2016-06-10",
+    "Worldwide box office": 439048914,
+    "Rotten Tomatoes": 28,
+    "Metacritic": 32,
+    "Distributor": "Universal Pictures",
+    "Original game publisher": "Blizzard Entertainment"
+  },
+  {
+    "Title": "Assassin's Creed",
+    "Release date": "2016-12-21",
+    "Worldwide box office": 240558621,
+    "Rotten Tomatoes": 18,
+    "Metacritic": 36,
+    "Distributor": "20th Century Fox",
+    "Original game publisher": "Ubisoft"
+  },
+  {
+    "Title": "Resident Evil: The Final Chapter",
+    "Release date": "2017-01-27",
+    "Worldwide box office": 312257250,
+    "Rotten Tomatoes": 37,
+    "Metacritic": 49,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Tomb Raider",
+    "Release date": "2018-03-16",
+    "Worldwide box office": 274650803,
+    "Rotten Tomatoes": 52,
+    "Metacritic": 48,
+    "Distributor": "Warner Bros. Pictures",
+    "Original game publisher": "Square Enix"
+  },
+  {
+    "Title": "Rampage",
+    "Release date": "2018-04-13",
+    "Worldwide box office": 428028233,
+    "Rotten Tomatoes": 51,
+    "Metacritic": 45,
+    "Distributor": "Warner Bros. Pictures",
+    "Original game publisher": "WB Games"
+  },
+  {
+    "Title": "Dead Trigger",
+    "Release date": "2019-05-03",
+    "Worldwide box office": 151493,
+    "Rotten Tomatoes": "",
+    "Metacritic": "",
+    "Distributor": "Saban Films",
+    "Original game publisher": "Madfinger Games"
+  },
+  {
+    "Title": "Detective Pikachu",
+    "Release date": "2019-05-10",
+    "Worldwide box office": 433005346,
+    "Rotten Tomatoes": 68,
+    "Metacritic": 53,
+    "Distributor": "Warner Bros. Pictures",
+    "Original game publisher": "NintendoThe Pokémon Company"
+  },
+  {
+    "Title": "Sonic the Hedgehog",
+    "Release date": "2020-02-14",
+    "Worldwide box office": 320954026,
+    "Rotten Tomatoes": 63,
+    "Metacritic": 47,
+    "Distributor": "Paramount Pictures",
+    "Original game publisher": "Sega Sammy"
+  },
+  {
+    "Title": "Monster Hunter",
+    "Release date": "2020-12-18",
+    "Worldwide box office": 42145959,
+    "Rotten Tomatoes": 46,
+    "Metacritic": 47,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  },
+  {
+    "Title": "Mortal Kombat",
+    "Release date": "2021-04-23",
+    "Worldwide box office": 83601013,
+    "Rotten Tomatoes": 55,
+    "Metacritic": 44,
+    "Distributor": "Warner Bros. Pictures",
+    "Original game publisher": "WB Games"
+  },
+  {
+    "Title": "Werewolves Within",
+    "Release date": "2021-06-25",
+    "Worldwide box office": 937490,
+    "Rotten Tomatoes": 85,
+    "Metacritic": 66,
+    "Distributor": "IFC Films",
+    "Original game publisher": "Ubisoft"
+  },
+  {
+    "Title": "Resident Evil: Welcome to Raccoon City",
+    "Release date": "2021-11-24",
+    "Worldwide box office": 31837037,
+    "Rotten Tomatoes": 29,
+    "Metacritic": 44,
+    "Distributor": "Sony Pictures Releasing",
+    "Original game publisher": "Capcom"
+  }
+]
